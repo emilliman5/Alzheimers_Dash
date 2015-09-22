@@ -1,15 +1,19 @@
 library(sqldf)
-
-Global<-read.delim("normHMD_HumanPhenotype.txt",header=FALSE )
+Clinvar<-read.delim("clinvar_genes_phenos_updated_grouped.txt")
+Global<-read.delim("mgi_Phenotype.txt" ,header=FALSE )
 Disease<-read.delim("NHGRI.signGene.list")
 
-Global<-Global[,c(2:7)]
-colnames(Global)<-c("HGS","HGN","MGN","MGS","M","Phenotype")
+Clinvar<-Clinvar[,c(2,5)]
+colnames(Clinvar)<-colnames(Disease)
+Disease<-rbind(Disease,Clinvar)
+
+
+colnames(Global)<-c("HGS","HGN","MGN","MGS","Phenotype")
 
 Mergetable<-sqldf('select a.*,b.* from Global a join Disease b on a.HGN=b.gene')
 
 D<-unique(Disease[,2])
-G<-unique(Global[,6])
+G<-unique(Global[,5])
 x<-expand.grid(D[!is.na(D)],G[!is.na(G)])
 x1<-sqldf('select a.Var1, a.Var2, count(b.HGS) as Overlap 
         from x a inner join Mergetable b on a.Var1=b.trait and a.Var2=b.Phenotype
