@@ -26,3 +26,4 @@ x2<-sqldf('select a.Var1, a.Var2, Overlap, count(b.HGS) as DiseaseOnly
 x3<-sqldf('select a.Var1, a.Var2, Overlap, DiseaseOnly, count(b.HGS) as PhenotypeOnly 
         from x2 a inner join Mergetable b on a.Var2=b.Phenotype where a.Var1<>b.trait
           group by a.Var1, a.Var2, a.Overlap, a.DiseaseOnly')
+save(x3, "Contingency_table.Rda")
