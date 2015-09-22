@@ -1,0 +1,572 @@
+https://genomicsdash.etherpad.mozilla.org/1  (jhudash)
+
+
+Before you can download phenotype data, order biospecimens or genetic data, or recruit families:
+
+You must complete the following:
+
+1. Affiliate with an institution. If your institution is not already registered on SFARI Base, you can request to add your institution.
+
+2. Review the RDA accepted by your institution.
+
+3. Sign the joinder agreement.
+
+Additionally, you must submit your project details.
+
+An official from your institution must sign the Researcher Distribution Agreement (RDA). Click "Register for Access" above to find out if your institution is registered on SFARI Base.
+
+The Simons Foundation will then execute the RDA. 
+
+
+
+************ We can post notes and links about our project *******************
+
+http://www.genomebiology.com/content/pdf/gb-2010-11-10-404.pdf (Title: Do it yourself Genetic Testing).
+
+
+The question is where do we get the database about Autism?  Autism genetics data about both mouse/rat or with human.
+
+Human autism data:
+https://www.simonsfoundation.org/simons-foundation-data-resources/
+
+You need "An official from your institution must sign the Researcher Distribution Agreement (RDA)." to get all the data. It's not really open data. We have to find other data source.
+
+Short tut on Short read alignment
+https://blog.sbgenomics.com/short-read-alignment-algorithms/
+
+Rodent autism data:
+
+Rodent models for autism: A critical review  (Drug Discovery Today Disease Models 07/2005; DOI: 10.1016/j.ddmod.2005.05.004)
+
+NHGRI: GWAS catalogue, Later generation: Grasp, ref:
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072913/
+download link to the data: 
+https://www.ebi.ac.uk/gwas/docs/downloads
+
+GRASP DB
+http://omictools.com/grasp-s5332.html
+
+Genome GWAS
+https://www.genome.gov/26525384
+
+Geneset enrichment analysis
+https://en.wikipedia.org/wiki/Gene_set_enrichment
+http://www.pnas.org/content/102/43/15545.full
+
+In NCBI-Hackathons https://github.com/NCBI-Hackathons
+
+DC genomics Meetup Repos
+https://github.com/DCGenomics?tab=repositories
+
+Also, shiny app:
+http://shiny.as.uky.edu:3838/mcfsa/
+
+
+Phenotype expression browser from Jax
+http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0002063
+
+
+Other data source: Alzheimer's challenge data, which is already in accessible data format.
+https://www.synapse.org/#!Synapse:syn2290704/wiki/64710; data available at: https://github.com/juanjold/cis519/find/master
+
+
+And other data challenges: http://dreamchallenges.org/
+
+
+
+
+
+
+
+https://ndar.nih.gov/
+xuh2@mail.nih.gov  (JHUD@sh2015)
+
+
+
+http://ncbiinsights.ncbi.nlm.nih.gov/2015/05/22/ncbis-first-hackathon-advanced-bioinformatic-analysis-of-next-gen-sequencing-data/#more-613
+
+http://omictools.com/site/search/?phrase=autism&go=Search&isNewSearch=true
+
+
+
+
+
+http://adni.loni.usc.edu/data-samples/access-data/
+https://www.synapse.org/#!Synapse:syn2290704/wiki/64710
+
+
+xuh2@mail.nih.gov (hongxu2015/JHUD@sh2015)
+
+
+
+https://www.synapse.org/
+hxu.hong@gmail.com	(hongxu2015/JHUD@sh2015)
+
+
+
+
+https://www.niagads.org/?q=user/register
+
+xuh2@mail.nih.gov (hongxu2015/JHUD@sh2015)
+
+
+
+
+http://www.informatics.jax.org/diseasePortal/summary#hdp=phenotypes%3Dalzheimer%26results%3D250%26startIndex%3D0%26sort%3D%26dir%3Dasc%26tab%3Dgenestab
+
+
+
+http://www.informatics.jax.org/diseasePortal/summary#hdp=phenotypes%3DAlzheimer%26results%3D250%26startIndex%3D0%26sort%3D%26dir%3Dasc%26tab%3Dgridtab
+
+> library(readr)
+> mgi_allele <- read_table("datasource/MGI_alzheimer.txt")
+> View(mgi_allele)
+> mgi_allele <- read_table("datasource/MGI_alzheimer.txt", sep="\t", header=TRUE)
+Error in read_table("datasource/MGI_alzheimer.txt", sep = "\t", header = TRUE) : 
+  unused arguments (sep = "\t", header = TRUE)
+> mgi_allele <- read.table("datasource/MGI_alzheimer.txt", sep="\t", header=TRUE)
+Error in scan(file, what, nmax, sep, dec, quote, skip, nlines, na.strings,  : 
+  line 79 did not have 11 elements
+> mgi_allele <- read.table("datasource/MGI_alzheimer.txt", sep="\t", header=TRUE)
+Error in scan(file, what, nmax, sep, dec, quote, skip, nlines, na.strings,  : 
+  line 79 did not have 11 elements
+> mgi_allele <- read_csv("datasource/MGI_alzheimer.csv")
+> View(mgi_allele)
+> type(mgi_allele)
+Error: could not find function "type"
+> class(mgi_allele)
+[1] "tbl_df"     "tbl"        "data.frame"
+> View(mgi_allele)
+> mgi_allele[`Allele Type` = "Targeted"]
+Error in `[.data.frame`(mgi_allele, `Allele Type` = "Targeted") : 
+  unused argument (`Allele Type` = "Targeted")
+> mgi_allele[Allele Type = "Targeted"]
+Error: unexpected symbol in "mgi_allele[Allele Type"
+> mgi_allele['Allele Type' = "Targeted"]
+Error in `[.data.frame`(mgi_allele, `Allele Type` = "Targeted") : 
+  unused argument (`Allele Type` = "Targeted")
+> names(mgi_allele)
+ [1] "MGI Allele ID"                                 "Allele Symbol"                                
+ [3] "Allele Name"                                   "Chromosome"                                   
+ [5] "Synonyms"                                      "Allele Type"                                  
+ [7] "Allele Attributes"                             "Transmission"                                 
+ [9] "Abnormal Phenotypes Reported in these Systems" "Human Disease Models"                         
+> names(mgi_allele) <- make.names(names(mgi_allele), unique=TRUE)
+> mgi_target <- mgi_allele[Allele.Type = "Targeted"]
+Error in `[.data.frame`(mgi_allele, Allele.Type = "Targeted") : 
+  unused argument (Allele.Type = "Targeted")
+> mgi_target <- mgi_allele[Allele.Type == "Targeted"]
+Error in `[.data.frame`(mgi_allele, Allele.Type == "Targeted") : 
+  object 'Allele.Type' not found
+> mgi_allele %>% filter(Allele.Type=="Targeted")
+Error: could not find function "%>%"
+> library(magrittr)
+> mgi_allele %>% filter(Allele.Type=="Targeted")
+Error in filter(., Allele.Type == "Targeted") : 
+  object 'Allele.Type' not found
+In addition: Warning messages:
+1: In data.matrix(data) : NAs introduced by coercion
+2: In data.matrix(data) : NAs introduced by coercion
+3: In data.matrix(data) : NAs introduced by coercion
+4: In data.matrix(data) : NAs introduced by coercion
+5: In data.matrix(data) : NAs introduced by coercion
+6: In data.matrix(data) : NAs introduced by coercion
+7: In data.matrix(data) : NAs introduced by coercion
+8: In data.matrix(data) : NAs introduced by coercion
+9: In data.matrix(data) : NAs introduced by coercion
+10: In data.matrix(data) : NAs introduced by coercion
+> names(mgi_allele)
+ [1] "MGI.Allele.ID"                                 "Allele.Symbol"                                
+ [3] "Allele.Name"                                   "Chromosome"                                   
+ [5] "Synonyms"                                      "Allele.Type"                                  
+ [7] "Allele.Attributes"                             "Transmission"                                 
+ [9] "Abnormal.Phenotypes.Reported.in.these.Systems" "Human.Disease.Models"                         
+> subset(mgi_allele, Allele.Type == "Targeted")
+   MGI.Allele.ID                                       Allele.Symbol                                        Allele.Name Chromosome
+1    MGI:2155908                                       Abcc1<tm1Bor>                    targeted mutation 1, Piet Borst         16
+2    MGI:2157162                                      Apoa4<tm1Bres>                 targeted mutation 1, Jan L Breslow          9
+3    MGI:1857129                                        Apoe<tm1Unc>  targeted mutation 1, University of North Carolina          7
+4    MGI:2158398                                Apoe<tm3(APOE*4)Mae>                  targeted mutation 3, Nobuyo Maeda          7
+5    MGI:2652346                                       App<tm1.1Cep>                targeted mutation 1.1, Cephalon Inc         16
+6    MGI:2652342                                         App<tm1Cep>                  targeted mutation 1, Cephalon Inc         16
+7    MGI:3609234                                          App<tm1Ck>              targeted mutation 1, Christoph Kohler         16
+8    MGI:2136847                                         App<tm1Dbo>              targeted mutation 1, David R Borchelt         16
+9    MGI:3044176                                         App<tm1Ini>                targeted mutation 1, Ikuo Nishimoto         16
+10   MGI:5637816                                       App<tm2.1Tcs>             targeted mutation 2.1, Takaomi C Saido         16
+11   MGI:5637817                                       App<tm3.1Tcs>             targeted mutation 3.1, Takaomi C Saido         16
+32   MGI:2180364                                        Cav1<tm1Mls>             targeted mutation 1, Michael P Lisanti          6
+33   MGI:2181011                                        Clu<tm1Jakh>            targeted mutation 1, Judith A K Harmony         14
+34   MGI:2158683                                        Cr1l<tm1Hmo>                 targeted mutation 1, Hector Molina          1
+35   MGI:5428335 Hprt<tm1(Camk2a-APP*Swe*Lon,-MAPT*P301L*R406W)Geno>                       targeted mutation 1, Genoway          X
+36   MGI:2136259                                        Klc1<tm1Gsn>        targeted mutation 1, Lawrence S B Goldstein         12
+37   MGI:1857212                                        Ldlr<tm1Her>                  targeted mutation 1, Joachim Herz          9
+39   MGI:2180880                                        Lrp1<tm2Her>                  targeted mutation 2, Joachim Herz         10
+40   MGI:2670768                                  Mapt<tm1(EGFP)Klt>              targeted mutation 1, Kerry Lee Tucker         11
+41   MGI:2137696                                         Mme<tm1Cge>                  targeted mutation 1, Craig Gerard          3
+42   MGI:1857874                                        Msr1<tm1Csk> targeted mutation 1, Chugai Pharmaceutical Co, Ltd          8
+43   MGI:1857228                                        Nos2<tm1Lau>              targeted mutation 1, Victor E Laubach         11
+45   MGI:2177943                                        Pin1<tm1Tuc>               targeted mutation 1, Takafumi Uchida          9
+46   MGI:1857289                                        Plau<tm1Mlg>            targeted mutation 1, Richard C Mulligan         14
+47   MGI:2652485                                      Plcb1<tm1Hssh>                  targeted mutation 1, Hee-Sup Shin          2
+48   MGI:2149116                                      Psen1<tm1Bdes>              targeted mutation 1, Bart de Strooper         12
+49   MGI:3608968                                       Psen1<tm1Dgf>               targeted mutation 1, Dorothy G Flood         12
+50   MGI:2155978                                       Psen1<tm1Jzt>                   targeted mutation 1, Joe Z Tsien         12
+51   MGI:3510457                                       Psen1<tm1Lpr>               targeted mutation 1, Laurent Pradier         12
+52   MGI:1930937                                       Psen1<tm1Mpm>                targeted mutation 1, Mark P Mattson         12
+53   MGI:1930934                                       Psen1<tm1Pcw>                 targeted mutation 1, Philip C Wong         12
+54   MGI:1857974                                       Psen1<tm1Shn>                      targeted mutation 1, Jie Shen         12
+55   MGI:3583662                                       Psen1<tm1Tak>                  targeted mutation 1, Junji Takeda         12
+56   MGI:2684616                                       Psen1<tm1Vln>               targeted mutation 1, Fred Van Leuven         12
+57   MGI:3623206                                       Psen1<tm1Zhe>                     targeted mutation 1, Hui Zheng         12
+58   MGI:1930939                                       Psen2<tm1Ber>                targeted mutation 1, Alan Bernstein          1
+59   MGI:2179967                                     Ptger2<tm1Brey>              targeted mutation 1, Richard M Breyer         14
+60   MGI:3604352                                       Sorl1<tm1Tew>              targeted mutation 1, Thomas E Willnow          9
+                                                                                                    Synonyms Allele.Type
+1                                                                                     mrp- | mrp1- | MRP1<->    Targeted
+2                                                                                                  apoA-IV -    Targeted
+3                        AopE(-) | apoE- | apoE0 | ApoE-KO | APOE KO | Apoe<tm1Un> | epsilon- | mE<-> | mEKO    Targeted
+4         4 | apoe4 | Apoe<4> | APOE*4 | apoE4-KI | apoE4 TR | Apoe<tm3(APOE)Mae> | E4 | TgH/ApoE4/N8 | TRE4    Targeted
+5                                                                         APP<deltaNL> | APP<NLH> | APPsweKI    Targeted
+6                                                                                                  APP<nNLH>    Targeted
+7                                                                        APP/hAbeta | APP-SL | APP<sl/Abeta>    Targeted
+8                                                                                                       App-    Targeted
+9                                                                                               V642I-APP-KI    Targeted
+10                                                                                                 App<NL-F>    Targeted
+11                                                                                               App<NL-G-F>    Targeted
+32                                                  cav<-> | Cav-1- | Cav-1 KO | Caveolin-1 KO | Cav<tm1Mls>    Targeted
+33                                                                                                    CLU<->    Targeted
+34                                                                                                   Crry<->    Targeted
+35                                                                                                      PLB1    Targeted
+36                                                                                                              Targeted
+37                                                   LDLR- | LDLr0 | LDLrKO | LDLr-KO | LDLR KO | Ldlrtm1Her    Targeted
+39                                                                                      LRP<flox> | lrp<lox>    Targeted
+40                                                                       Mapt<tm1(GFP)Klt> | tauGFP | tau ko    Targeted
+41                                                                                                      NEP-    Targeted
+42 MSR- | Msr1-KO | Msr1<tm1Kod> | Scara1<_> | Scvr<tm1> | SR- | Sra<-> | SR-A- | SR-AI/II KO | SRAKO | SRKO    Targeted
+43                                                       iNOS- | iNOS KO | NOS2- | Nos2tm1Lau | NOS2<tm/Lau>    Targeted
+45                                                                                                     Pin1-    Targeted
+46                                                                                     u-PA<-> | uPA- | UPA-    Targeted
+47                                                                                PLC-beta1<-> | PLCBeta1<->    Targeted
+48                                                                                                      PS1-    Targeted
+49                                                                 PS-1<P264L> | PS1<P264L> | Psen1<tm1Rsim>    Targeted
+50                                                                                                   PS1 (f)    Targeted
+51                                                                                  PS1KI | Ps1<M233T,L235P>    Targeted
+52                                                          PS1KI | PS1M146V | PS-1 M146V KI | PS1M146VKI<->    Targeted
+53                                                                                                    PS1<->    Targeted
+54                                                                                                    PS1<->    Targeted
+55                                                                              mPS1 | PS1 I213T | PS1/I213T    Targeted
+56                                                                                                  PS1-flox    Targeted
+57                                                                                              PS1 deltaE10    Targeted
+58                                                                                                    PS2<->    Targeted
+59                                                                                                      EP2-    Targeted
+60                                                                                 LR11<deltaEx4> | sorLA<->    Targeted
+                                 Allele.Attributes Transmission
+1                                    Null/knockout     Germline
+2                                    Null/knockout     Germline
+3                                    Null/knockout     Germline
+4  Humanized sequence, Inserted expressed sequence     Germline
+5                                                      Germline
+6                                                      Germline
+7                               Humanized sequence     Germline
+8                                    Null/knockout     Germline
+9                                                      Germline
+10                              Humanized sequence     Germline
+11                              Humanized sequence     Germline
+32                                   Null/knockout     Germline
+33                                   Null/knockout     Germline
+34                                   Null/knockout     Germline
+35 Humanized sequence, Inserted expressed sequence     Germline
+36                         Null/knockout, Reporter     Germline
+37                                   Null/knockout     Germline
+39         Conditional ready, No functional change     Germline
+40                         Null/knockout, Reporter     Germline
+41                                   Null/knockout     Germline
+42                                   Null/knockout     Germline
+43                                   Null/knockout     Germline
+45                                   Null/knockout     Germline
+46                                   Null/knockout     Germline
+47                                   Null/knockout     Germline
+48                                   Null/knockout     Germline
+49                                                     Germline
+50         Conditional ready, No functional change     Germline
+51                                                     Germline
+52                                                     Germline
+53                                   Null/knockout     Germline
+54                                   Null/knockout     Germline
+55                                                     Germline
+56         Conditional ready, No functional change     Germline
+57                                   Null/knockout     Germline
+58                                   Null/knockout     Germline
+59                                   Null/knockout     Germline
+60                                   Null/knockout     Germline
+                                                                                                                                                                                                                                                             Abnormal.Phenotypes.Reported.in.these.Systems
+1                                                                                                                                                                                                                                                   hematopoietic | homeostasis | immune | mortality/aging
+2                                                                                                                                                                                                                                                   behavior | digestive/alimentary | homeostasis | immune
+3  adipose | behavior | cardiovascular | cellular | endocrine/exocrine | growth/size/body | hearing/vestibular/ear | hematopoietic | homeostasis | immune | integument | liver/biliary | mortality/aging | muscle | nervous system | renal/urinary | respiratory | skeleton | taste/olfaction | vision/eye
+4                                                                                                                                                                               adipose | behavior | cardiovascular | growth/size/body | homeostasis | immune | nervous system | pigmentation | vision/eye
+5                                                                                                                                                                                                                                                                                                 cellular
+6                                                                                                                                                                                                                                                                                                 cellular
+7                                                                                                                                                                                                                                                                                behavior | nervous system
+8                                                                                                                                                                                                                                                             behavior | growth/size/body | nervous system
+9                                                                                                                                                                                                                                                behavior | homeostasis | mortality/aging | nervous system
+10                                                                                                                                                                                                                                        behavior | hematopoietic | homeostasis | immune | nervous system
+11                                                                                                                                                                                                                                        behavior | hematopoietic | homeostasis | immune | nervous system
+32                   adipose | behavior | cardiovascular | cellular | digestive/alimentary | endocrine/exocrine | growth/size/body | hematopoietic | homeostasis | immune | integument | liver/biliary | mortality/aging | muscle | nervous system | reproductive | respiratory | skeleton | tumorigenesis
+33                                                                                                                                                                                                                                          cardiovascular | homeostasis | immune | muscle | renal/urinary
+34                                                                                                                                                                                                  embryogenesis | homeostasis | immune | mortality/aging | nervous system | renal/urinary | reproductive
+35                                                                                                                                                                                                                                                                                                        
+36                                                                                                                                                                                                                                                 behavior | cellular | growth/size/body | nervous system
+37                                                                                         adipose | behavior | cardiovascular | cellular | endocrine/exocrine | growth/size/body | hematopoietic | homeostasis | immune | integument | liver/biliary | nervous system | other | pigmentation | vision/eye
+39                                                                                                                          adipose | behavior | cardiovascular | cellular | growth/size/body | homeostasis | immune | liver/biliary | mortality/aging | muscle | nervous system | reproductive | skeleton
+40                                                                                                                                                                                                                                                                               behavior | nervous system
+41                                                                                                                                                                                                                                                       homeostasis | immune | integument | liver/biliary
+42                                                                                                                                                                                                                                                                hematopoietic | immune | mortality/aging
+43                          adipose | behavior | cardiovascular | digestive/alimentary | endocrine/exocrine | growth/size/body | hematopoietic | homeostasis | immune | integument | mortality/aging | nervous system | renal/urinary | reproductive | respiratory | skeleton | tumorigenesis | vision/eye
+45                                                                                                                                                                                cellular | endocrine/exocrine | growth/size/body | homeostasis | integument | nervous system | reproductive | vision/eye
+46       adipose | cardiovascular | cellular | craniofacial | digestive/alimentary | endocrine/exocrine | growth/size/body | hearing/vestibular/ear | hematopoietic | homeostasis | immune | liver/biliary | mortality/aging | muscle | reproductive | respiratory | skeleton | tumorigenesis | vision/eye
+47                                                                                                                                                                                                                                          behavior | growth/size/body | mortality/aging | nervous system
+48                                                                                                                                                                           cardiovascular | cellular | craniofacial | growth/size/body | limbs/digits/tail | mortality/aging | nervous system | skeleton
+49                                                                                                                                                                                                                                                                                                        
+50                                                                                                                                                                                                                                                                    behavior | cellular | nervous system
+51                                                                                                                                                                                                                                                                                             homeostasis
+52                                                                                                                                                                            behavior | cardiovascular | cellular | growth/size/body | homeostasis | limbs/digits/tail | mortality/aging | nervous system
+53                                                                                                                                                behavior | cardiovascular | cellular | craniofacial | embryogenesis | growth/size/body | limbs/digits/tail | mortality/aging | nervous system | skeleton
+54                                                                                                                                cardiovascular | cellular | craniofacial | embryogenesis | growth/size/body | integument | limbs/digits/tail | mortality/aging | nervous system | respiratory | skeleton
+55                                                                                                                                                                                                                                                                                                behavior
+56                                                                                                                                                                                                                                                                            homeostasis | nervous system
+57                                                                                                                                                                                                                                                                                                        
+58                                                                                                                                                                                                                                                                                                        
+59                                                                                                                                                                 behavior | cardiovascular | hematopoietic | homeostasis | immune | muscle | nervous system | reproductive | respiratory | tumorigenesis
+60                                                                                                                                                                                                                                                                 behavior | homeostasis | nervous system
+                                                                                             Human.Disease.Models
+1                                                                                                                
+2                                                                                                                
+3                                                                                   Apolipoprotein E; APOE 107741
+4                                                              Macular Degeneration, Age-Related, 1; ARMD1 603075
+5                                                                                    Alzheimer Disease; AD 104300
+6                                                                                    Alzheimer Disease; AD 104300
+7                                                                                                                
+8                                                                                    Alzheimer Disease; AD 104300
+9                                                                                    Alzheimer Disease; AD 104300
+10                                                                                   Alzheimer Disease; AD 104300
+11                                                                                   Alzheimer Disease; AD 104300
+32                                                            Alzheimer Disease; AD 104300 | Breast Cancer 114480
+33                                                                                                               
+34                                                                                                               
+35                                                                                                               
+36                                                                                                               
+37 Fatty Liver Disease, Nonalcoholic, Susceptibility to, 1; NAFLD1 613282 | Hypercholesterolemia, Familial 143890
+39                                                                                   Alzheimer Disease; AD 104300
+40                                                                                                               
+41                                                                                   Alzheimer Disease; AD 104300
+42                                                                                                               
+43                                                                                                               
+45                                                                                   Alzheimer Disease; AD 104300
+46                                                                                   Alzheimer Disease; AD 104300
+47                                                      Alzheimer Disease; AD 104300 | Schizophrenia; SCZD 181500
+48                                                                                   Alzheimer Disease; AD 104300
+49                                                                                                               
+50                                                                                   Alzheimer Disease; AD 104300
+51                                                                                                               
+52                                                      Alzheimer Disease 3 607822 | Alzheimer Disease; AD 104300
+53                                                      Alzheimer Disease 3 607822 | Alzheimer Disease; AD 104300
+54                                                      Alzheimer Disease 3 607822 | Alzheimer Disease; AD 104300
+55                                                                                   Alzheimer Disease; AD 104300
+56                                                      Alzheimer Disease 3 607822 | Alzheimer Disease; AD 104300
+57                                                                                                               
+58                                                                                                               
+59                                                                                                               
+60                                                                                                               
+> mgi_target <- subset(mgi_allele, Allele.Type == "Targeted")
+> View(mgi_target)
+> class(mgi_target)
+[1] "tbl_df"     "tbl"        "data.frame"
+> mgi_target[2:]
+Error: unexpected ']' in "mgi_target[2:]"
+> mgi_target[,2]
+ [1] "Abcc1<tm1Bor>"                                       "Apoa4<tm1Bres>"                                     
+ [3] "Apoe<tm1Unc>"                                        "Apoe<tm3(APOE*4)Mae>"                               
+ [5] "App<tm1.1Cep>"                                       "App<tm1Cep>"                                        
+ [7] "App<tm1Ck>"                                          "App<tm1Dbo>"                                        
+ [9] "App<tm1Ini>"                                         "App<tm2.1Tcs>"                                      
+[11] "App<tm3.1Tcs>"                                       "Cav1<tm1Mls>"                                       
+[13] "Clu<tm1Jakh>"                                        "Cr1l<tm1Hmo>"                                       
+[15] "Hprt<tm1(Camk2a-APP*Swe*Lon,-MAPT*P301L*R406W)Geno>" "Klc1<tm1Gsn>"                                       
+[17] "Ldlr<tm1Her>"                                        "Lrp1<tm2Her>"                                       
+[19] "Mapt<tm1(EGFP)Klt>"                                  "Mme<tm1Cge>"                                        
+[21] "Msr1<tm1Csk>"                                        "Nos2<tm1Lau>"                                       
+[23] "Pin1<tm1Tuc>"                                        "Plau<tm1Mlg>"                                       
+[25] "Plcb1<tm1Hssh>"                                      "Psen1<tm1Bdes>"                                     
+[27] "Psen1<tm1Dgf>"                                       "Psen1<tm1Jzt>"                                      
+[29] "Psen1<tm1Lpr>"                                       "Psen1<tm1Mpm>"                                      
+[31] "Psen1<tm1Pcw>"                                       "Psen1<tm1Shn>"                                      
+[33] "Psen1<tm1Tak>"                                       "Psen1<tm1Vln>"                                      
+[35] "Psen1<tm1Zhe>"                                       "Psen2<tm1Ber>"                                      
+[37] "Ptger2<tm1Brey>"                                     "Sorl1<tm1Tew>"                                      
+> sapply(strsplit(mgi_target[,2], "<"), "[", 1)
+ [1] "Abcc1"  "Apoa4"  "Apoe"   "Apoe"   "App"    "App"    "App"    "App"    "App"    "App"    "App"    "Cav1"   "Clu"    "Cr1l"  
+[15] "Hprt"   "Klc1"   "Ldlr"   "Lrp1"   "Mapt"   "Mme"    "Msr1"   "Nos2"   "Pin1"   "Plau"   "Plcb1"  "Psen1"  "Psen1"  "Psen1" 
+[29] "Psen1"  "Psen1"  "Psen1"  "Psen1"  "Psen1"  "Psen1"  "Psen1"  "Psen2"  "Ptger2" "Sorl1" 
+> unique(sapply(strsplit(mgi_target[,2], "<"), "[", 1))
+ [1] "Abcc1"  "Apoa4"  "Apoe"   "App"    "Cav1"   "Clu"    "Cr1l"   "Hprt"   "Klc1"   "Ldlr"   "Lrp1"   "Mapt"   "Mme"    "Msr1"  
+[15] "Nos2"   "Pin1"   "Plau"   "Plcb1"  "Psen1"  "Psen2"  "Ptger2" "Sorl1" 
+> mgi_gene <- unique(sapply(strsplit(mgi_target[,2], "<"), "[", 1))
+
+> library(biomaRt)
+Creating a generic function for ‘nchar’ from package ‘base’ in package ‘S4Vectors’
+Warning message:
+package ‘biomaRt’ was built under R version 3.2.2 
+> human = useMart("ensembl", dataset = "hsapiens_gene_ensembl")
+> mouse = useMart("ensembl", dataset = "mmusculus_gene_ensembl")
+> genes = c("Zfp286", "Tmx2")
+> genes = getLDS(attributes = c("mgi_symbol"), filters = "mgi_symbol", values = genes ,mart = mouse, attributesL = c("hgnc_symbol","chromosome_name", "start_position"), martL = human, uniqueRows=T)
+> View(genes)
+> hs_gene <- getLDS(attributes = c("mgi_symbol"), filters = "mgi_symbol", values = mgi_gene ,mart = mouse, attributesL = c("hgnc_symbol","chromosome_name", "start_position"), martL = human, uniqueRows=T)
+> View(hs_gene)
+> 
+
+
+
+library(readr)
+library (tcltk)
+
+# read in the MGI Alzheimer disease allele data
+# mgi_file <- readline(prompt="Enter the MGI csv file: ")
+mgi_file <- tk_choose.files()
+mgi_allele <- read_csv(mgi_file[1])
+
+# change column name to replace spaces in name
+names(mgi_allele) <- make.names(names(mgi_allele), unique=TRUE)
+
+# get only targeted mutation
+mgi_target <- subset(mgi_allele, Allele.Type == "Targeted")
+# get allele information
+mgi_target[,2]
+
+# get unique gene name from allele name
+mgi_gene <- unique(sapply(strsplit(mgi_target[,2], "<"), "[", 1))
+
+
+
+library(biomaRt)
+
+# set Biomart human gene set
+human = useMart("ensembl", dataset = "hsapiens_gene_ensembl")
+# set Biomart mouse gene set
+mouse = useMart("ensembl", dataset = "mmusculus_gene_ensembl")
+
+# map mouse gene symbol to human gene symbol
+hs_gene <- getLDS(attributes = c("mgi_symbol"), filters = "mgi_symbol", values = mgi_gene ,mart = mouse, attributesL = c("hgnc_symbol","chromosome_name", "start_position"), martL = human, uniqueRows=T)
+
+
+
+
+
+
+HMD_HumanPhenotype.rpt
+
+
+
+> df <- read.table(textConnection("1|a,b,c\n2|a,c\n3|b,d\n4|e,f"), header = F, sep = "|", stringsAsFactors = F)
+> s <- strsplit(df$V2, split = ",")
+> data.frame(V1 = rep(df$V1, sapply(s, length)), V2 = unlist(s))
+  V1 V2
+1  1  a
+2  1  b
+3  1  c
+4  2  a
+5  2  c
+6  3  b
+7  3  d
+8  4  e
+9  4  f
+> 
+
+
+http://stackoverflow.com/questions/15347282/split-string-column-and-insert-as-multiple-new-rows
+
+http://stackoverflow.com/questions/25401505/splitting-a-string-into-new-rows-in-r
+
+
+
+
+hmd_mhp <- as.data.frame(do.call(rbind, apply(hmd_hp[1:10,], 1, function(x) {
+  do.call(expand.grid, strsplit(x, " "))
+})))
+
+
+
+sepColumn <- function(v) {
+  df <- data.frame(human_symbol=character(),
+                   human_id=integer(),
+                   mouse_id=integer(),
+                   mouse_symbol=character(),
+                   mgi=character(),
+                   human_pheno=character())
+  if (length(v[6]) > 1) {
+    u <- strsplit(v[6], split = " ")
+    for (mp in u) {
+      newrow <- c(v[1:5], mp)
+      df <- rbind(df,newrow)
+    }
+  }
+  else {
+    newrow <- c(v[1:5])
+    df <- rbind(df,newrow)
+  }
+  return(df)
+}
+
+for (r in hmd_hp) {
+  sepColumn(r)
+}
+
+
+
+hmd_mhp <- as.data.frame(do.call(rbind, apply(hmd_hp, 1, function(x) {
+  do.call(expand.grid, strsplit(x, " "))
+})))
+
+
+
+library(devtools)
+source_gist(11380733)
+df2 <- cSplit(df1, "Item.Code", sep = "/", direction = "long")
+df2[, Item.Code := gsub("\\s", "", Item.Code)]
+df2
+
+
+> source_gist(11380733
++ )
+Sourcing https://gist.githubusercontent.com/mrdwab/11380733/raw/dd1a18650584f255ade61eef3a6b13fce9a53331/cSplit.R
+SHA-1 hash of file is 05173fceecd1b23c50902f949849e427076b5912
+Warning message:
+In find_gist(id) : Multiple R files in gist, using first.
+> hmd_mhp <- cSplit(hmd_hp, "V6", sep = " ", direction = "long")
+`cSplit` is now part of the 'splitstackshape' package (V1.4.0)
+Loading required package: data.table
+data.table 1.9.6  For help type ?data.table or https://github.com/Rdatatable/data.table/wiki
+The fastest way to learn (by data.table authors): https://www.datacamp.com/courses/data-analysis-the-data-table-way
+> 
+
+
+write.table(hmd_mhp, "normHMD_HumanPhenotype.txt", sep = "\t", quote=FALSE, col.names=FALSE)
+
+
+
+> hmd_hp <- read.table("HMD_HumanPhenotype.rpt", sep="\t", header=FALSE, stringsAsFactors = FALSE, strip.white=TRUE)
+> hmd_hp[hmd_hp$V6=="",6] <- NA
+> library(devtools)
+> source_gist(11380733)
+Sourcing https://gist.githubusercontent.com/mrdwab/11380733/raw/dd1a18650584f255ade61eef3a6b13fce9a53331/cSplit.R
+SHA-1 hash of file is 05173fceecd1b23c50902f949849e427076b5912
+Warning message:
+In find_gist(id) : Multiple R files in gist, using first.
+> hmd_mhp <- cSplit(hmd_hp, "V6", sep = " ", direction = "long")
+`cSplit` is now part of the 'splitstackshape' package (V1.4.0)
+Loading required package: data.table
+data.table 1.9.6  For help type ?data.table or https://github.com/Rdatatable/data.table/wiki
+The fastest way to learn (by data.table authors): https://www.datacamp.com/courses/data-analysis-the-data-table-way
+> write.table(hmd_mhp, "normHMD_HumanPhenotype.txt", sep = "\t", quote=FALSE, col.names=FALSE)
+> 

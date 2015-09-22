@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to the JHU DaSH!
 
 ## tl;dr
@@ -128,3 +129,7 @@
   * https://www.genome.gov/26525384
 - OMIM
   * http://www.ncbi.nlm.nih.gov/omim
+=======
+# Alzheimers_Dash
+JHU DaSH project on alzheimer's and alzheimer's related phenotypes
+>>>>>>> FETCH_HEAD
