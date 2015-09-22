@@ -27,7 +27,6 @@ pvalue<-apply(as.matrix(x3.1[,3:6]), 1, function(x)
 estimate<-apply(as.matrix(x3.1[,3:6]), 1, function(x) 
   fisher.test(matrix(unlist(x), ncol=2))$estimate)
 
-
 x3.1[,"pvalue"]<-pvalue
 x3.1[,"oddsratio"]<-estimate
 
@@ -41,7 +40,7 @@ reshape2<-reshape(x3.1[,c("Var1","Var2","oddsratio")], idvar = "Var1", timevar =
 
 
 save(reshape,file = "phenotype_by_phenotype_fishers_pvalue.Rda")
-save(reshape,file = "phenotype_by_phenotype_fishers_oddsratio.Rda")
+save(reshape2,file = "phenotype_by_phenotype_fishers_oddsratio.Rda")
 
 heatmap(reshape)
 
