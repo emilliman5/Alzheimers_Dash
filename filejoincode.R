@@ -20,10 +20,10 @@ x1<-sqldf('select a.Var1, a.Var2, count(b.HGS) as Overlap
           group by a.Var1, a.Var2')
 
 x2<-sqldf('select a.Var1, a.Var2, Overlap, count(b.HGS) as DiseaseOnly 
-        from x1 a join Mergetable b on a.Var1=b.trait where a.Var2<>b.Phenotype
-          group by a.Var1, a.Var2, a.Overlap')
+        from x1 a left join Mergetable b on a.Var1=b.trait where a.Var2<>b.Phenotype
+          group by a.Var1, b.Var2, a.Overlap')
 
 x3<-sqldf('select a.Var1, a.Var2, Overlap, DiseaseOnly, count(b.HGS) as PhenotypeOnly 
-        from x2 a join Mergetable b on a.Var2=b.Phenotype where a.Var1<>b.trait
+        from x2 a left join Mergetable b on a.Var2=b.Phenotype where a.Var1<>b.trait
           group by a.Var1, a.Var2, a.Overlap, a.DiseaseOnly')
-save(x3, file="test_Contingency.Rda")
+save(x3, file="Contingency.Rda")
