@@ -1,0 +1,3666 @@
+gene	trait
+19	high density lipoprotein cholesterol measurement
+19	total cholesterol measurement
+19	coronary artery calcification
+19	metabolic syndrome
+19	lipid measurement
+23	graves disease
+24	cleft lip
+26	blood metabolite measurement
+28	intraocular pressure measurement
+28	pancreatic carcinoma
+28	serum lipase activity measurement
+28	serum carcinoembryonic antigen measurement
+28	urinary metabolite measurement
+28	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+28	alkaline phosphatase measurement
+28	malaria
+28	venous thromboembolism
+28	graves disease
+28	thyroid stimulating hormone measurement, thyroxine measurement
+28	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+28	cancer biomarker measurement
+28	coagulation factor measurement
+28	protein measurement
+28	partial thromboplastin time
+28	duodenal ulcer
+28	blood sedimentation, c-reactive protein measurement, ccl2 measurement, interleukin-6 measurement
+28	metabolite measurement
+28	icam-1 measurement
+28	coronary heart disease, myocardial infarction
+28	phytosterol measurement
+28	liver enzyme measurement
+28	CCL4 measurement, adiponectin measurement, alkaline phosphatase measurement, alpha globulin measurement, alpha macroglobulin measurement, apolipoprotein a 1 measurement, aspartate aminotransferase measurement, c-reactive protein measurement, ccl2 measurement, ferritin measurement, fibrinogen measurement, fructose-bisphosphate aldolase measurement, glycoprotein measurement, hemoglobin measurement, hormone measurement, insulin like growth factor measurement, insulin measurement, interleukin 1 receptor antagonist measurement, interleukin 10 measurement, interleukin 12 measurement, interleukin 18 measurement, interleukin-1 beta measurement, interleukin-6 measurement, interleukin-6 receptor measurement, interleukin-8 measurement, l lactate dehydrogenase measurement, leptin measurement, myoglobin measurement, parathyroid hormone measurement, resistin measurement, serum albumin measurement, serum gamma-glutamyl transferase measurement, sex hormone globulin binding measurement, soluble transferrin receptor measurement, thyroid stimulating hormone measurement, transforming growth factor beta measurement, tumor necrosis factor-alpha measurement
+33	metabolite measurement
+34	blood metabolite measurement
+35	urinary metabolite measurement
+35	metabolite measurement
+98	telomere length
+105	age at menarche
+109	height-adjusted body mass index
+109	body mass index
+109	inflammatory bowel disease
+111	birth weight
+111	body mass index, fasting blood glucose measurement
+111	fasting blood glucose measurement
+111	glucose tolerance test
+125	alcohol dependence
+125	upper aerodigestive tract neoplasm
+125	esophageal carcinoma
+131	upper aerodigestive tract neoplasm
+132	odontogenesis
+132	tooth eruption
+148	blood metabolite measurement
+153	birth weight
+163	mean platelet volume
+172	melanoma
+173	prostate carcinoma
+174	cancer biomarker measurement
+176	body height
+176	infant body height
+176	anthropometry
+177	pulmonary function measurement
+182	bone density
+205	venous thromboembolism
+217	body mass index
+217	alcohol drinking
+217	response to alcohol
+217	renal system measurement
+217	coronary heart disease
+217	drinking behavior
+217	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+217	hemoglobin measurement, mean corpuscular hemoglobin
+217	esophageal carcinoma
+249	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+249	vitamin measurement
+286	a1c measurement
+287	nitric oxide exhalation measurement
+288	bipolar disorder
+288	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+290	blood metabolite measurement
+306	rheumatoid arthritis
+311	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+326	rheumatoid arthritis
+327	ulcerative colitis
+335	infantile hypertrophic pyloric stenosis
+338	low density lipoprotein cholesterol measurement
+338	total cholesterol measurement
+338	coronary artery calcification
+338	metabolic syndrome
+338	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+338	triglyceride measurement
+338	high density lipoprotein cholesterol measurement
+338	lipid measurement
+341	low density lipoprotein cholesterol measurement, response to statin
+341	blood metabolite measurement
+341	longevity
+341	total cholesterol measurement
+341	low density lipoprotein cholesterol measurement
+341	high density lipoprotein cholesterol measurement
+341	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, triglyceride measurement
+341	triglyceride measurement
+341	age-related macular degeneration
+341	alzheimer's disease
+341	lipoprotein-associated phospholipase a(2) measurement
+341	lipoprotein measurement
+341	coronary artery calcification
+341	psychomotor performance
+341	age at onset, alzheimer's disease
+341	c-reactive protein measurement
+341	cardiovascular disease, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, triglyceride measurement, waist circumference
+342	sphingolipid measurement
+348	Lewy body dementia, Lewy body dementia measurement
+348	alzheimer's disease, beta-amyloid 1-42 measurement
+348	cognitive decline
+348	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+348	alzheimer's disease
+348	low density lipoprotein cholesterol measurement
+348	response to statin
+348	lipid measurement
+348	neuroimaging measurement
+348	c-reactive protein measurement
+350	low density lipoprotein cholesterol measurement
+354	prostate specific antigen measurement
+354	prostate carcinoma
+355	chronic lymphocytic leukemia
+357	prostate carcinoma
+366	coronary artery calcification
+406	iron biomarker measurement, transferrin measurement
+406	age at menarche
+406	plasminogen activator inhibitor 1 measurement
+410	blood metabolite measurement
+411	selenium measurement
+415	body height
+463	hypospadias
+463	atrial fibrillation
+472	melanoma
+473	vitiligo
+481	qt interval
+482	esophageal squamous cell carcinoma
+488	schizophrenia
+488	qt interval
+490	diastolic blood pressure
+490	systolic blood pressure
+490	blood pressure
+490	coronary heart disease
+490	hypertension
+493	malaria
+501	osteoporosis
+571	pancreatic carcinoma
+578	platelet count
+578	testicular carcinoma
+578	chronic lymphocytic leukemia
+578	mean platelet volume
+580	neuroblastoma
+590	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+590	butyrylcholinesterase measurement
+594	anthropometry
+595	multiple myeloma
+596	chronic lymphocytic leukemia
+602	lipid measurement
+611	odontogenesis
+627	anthropometry
+627	body mass index
+627	age at menarche
+629	ulcerative colitis
+629	age-related macular degeneration
+635	selenium measurement
+635	serum selenium measurement
+643	inflammatory bowel disease
+652	tooth eruption
+654	vital capacity
+654	body height
+675	lung adenocarcinoma, lung carcinoma, squamous cell carcinoma
+675	low density lipoprotein cholesterol measurement
+677	multiple sclerosis
+677	type i diabetes mellitus
+683	parkinson's disease
+717	rheumatoid arthritis
+717	response to vaccine
+717	age-related macular degeneration
+718	age-related macular degeneration
+718	complement C3 measurement, complement C4 measurement
+725	c4bp measurement
+745	cis/trans-18:2 fatty acid measurement, total trans-18:1 fatty acid measurement, trans fatty acid measurement, trans-16:1n7 fatty acid measurement, trans/cis-18:2 fatty acid measurement, trans/trans-18:2fatty acid measurement
+745	arachidonic acid measurement, docosapentaenoic acid measurement, fatty acid measurement, linoleic acid measurement, linolenic acid measurement
+745	colorectal cancer
+745	blood metabolite measurement
+745	phospholipid measurement
+746	cis/trans-18:2 fatty acid measurement, total trans-18:1 fatty acid measurement, trans fatty acid measurement, trans-16:1n7 fatty acid measurement, trans/cis-18:2 fatty acid measurement, trans/trans-18:2fatty acid measurement
+746	omega-6 polyunsaturated fatty acid measurement
+746	phospholipid measurement
+746	coronary artery calcification
+746	crohn's disease
+746	blood metabolite measurement
+747	phospholipid measurement
+759	serum zinc measurement
+775	schizophrenia
+775	bipolar disorder, schizophrenia
+775	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+775	erythrocyte measurement
+776	diastolic blood pressure
+779	tooth eruption
+783	schizophrenia
+783	odontogenesis
+783	blood pressure
+785	chemotherapy-induced alopecia
+816	osteoarthritis
+816	metabolic syndrome
+817	chronic lymphocytic leukemia
+821	resting heart rate
+825	triglyceride measurement
+829	systolic blood pressure
+829	hypertension
+831	psoriasis
+832	thryoid volume
+833	calcium measurement
+841	chronic lymphocytic leukemia
+846	calcium measurement
+857	pr interval
+857	PR segment
+857	atrial fibrillation
+857	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+861	esophageal squamous cell carcinoma
+861	esophageal carcinoma
+867	platelet count
+868	multiple sclerosis
+871	body height
+875	selenium measurement
+875	blood metabolite measurement
+875	homocysteine measurement
+896	erythrocyte measurement
+896	erythrocyte count
+896	hemoglobin measurement, mean corpuscular hemoglobin
+896	mean corpuscular volume
+896	mean corpuscular hemoglobin
+896	erythrocyte count, leukocyte count, mean corpuscular hemoglobin, mean corpuscular volume, platelet count
+919	immune system disease
+919	systemic scleroderma
+923	inflammatory bowel disease
+923	multiple sclerosis
+932	vitamin B12 measurement
+941	systemic lupus erythematosus
+942	multiple sclerosis
+945	alzheimer's disease
+948	mean platelet volume
+949	lipoprotein-associated phospholipase a(2) measurement
+949	vitamin E measurement
+958	rheumatoid arthritis
+965	multiple sclerosis
+969	type i diabetes mellitus
+974	body height
+1012	adiponectin measurement
+1012	blood pressure
+1021	leukocyte count
+1021	rheumatoid arthritis
+1021	anthropometry
+1021	body height
+1029	platelet count
+1053	B-cell acute lymphoblastic leukemia
+1053	acute lymphoblastic leukemia
+1062	testicular carcinoma
+1071	total cholesterol measurement
+1071	high density lipoprotein cholesterol measurement
+1071	blood metabolite measurement
+1071	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+1071	age-related macular degeneration
+1071	metabolic syndrome
+1071	lipid measurement
+1071	triglyceride measurement
+1109	blood metabolite measurement
+1109	triglyceride measurement
+1116	ykl40 measurement
+1136	schizophrenia
+1136	chronic obstructive pulmonary disease
+1136	smoking behavior
+1136	lung adenocarcinoma
+1136	lung carcinoma
+1136	nicotine dependence
+1138	chronic obstructive pulmonary disease, pulmonary artery enlargement
+1138	emphysema pattern measurement
+1146	refractive error
+1191	alzheimer's disease
+1201	crohn's disease
+1232	CCL5 measurement, HOMA-IR, IGFBP-1 measurement, IgF-1 measurement, adiponectin measurement, amino acid measurement, antioxidant measurement, arm span, aspartate aminotransferase measurement, birth weight, blood urea nitrogen measurement, body composition measurement, body height, body mass index, body weight, bone density, c-reactive protein measurement, ccl2 measurement, cortisol secretion measurement, diastolic blood pressure, energy expenditure, energy intake, estradiol measurement, fasting blood glucose measurement, fasting blood insulin measurement, fatty acid measurement, folic acid measurement, gestational age, head circumference, heart rate, high density lipoprotein cholesterol measurement, hip circumference, homocysteine measurement, hormone measurement, icam-1 measurement, igfbp-3 measurement, insulin sensitivity measurement, interleukin-6 measurement, lean body mass, leptin measurement, low density lipoprotein cholesterol measurement, maximal oxygen uptake measurement, metabolic rate measurement, physical activity, serum alanine aminotransferase measurement, sleep measurement, systolic blood pressure, testosterone measurement, thyroid stimulating hormone measurement, total cholesterol measurement, transforming growth factor beta measurement, triglyceride measurement, tumor necrosis factor-alpha measurement, urinary metabolite measurement, vitamin B12 measurement, waist circumference
+1232	ccl2 measurement
+1235	triglyceride measurement
+1235	rheumatoid arthritis
+1238	Alzheimer's disease biomarker measurement, CCL4 measurement, alzheimer's disease, angiotensin-converting enzyme measurement, ccl2 measurement, interleukin-6 measurement, matrix metalloproteinase measurement
+1266	phospholipid measurement
+1272	parkinson's disease
+1286	cytokine measurement, response to vaccine
+1289	corneal topography
+1295	age-related macular degeneration
+1296	corneal topography
+1301	glaucoma
+1326	inflammatory bowel disease
+1356	serum ceruloplasmin measurement
+1369	age-related hearing impairment
+1369	bone density
+1369	body height
+1373	blood metabolite measurement
+1373	homocysteine measurement
+1373	serum metabolite measurement
+1373	high density lipoprotein cholesterol measurement
+1373	fibrinogen measurement
+1373	insulin sensitivity measurement
+1373	chronic kidney disease
+1374	lipid measurement
+1378	alzheimer's disease
+1378	blood sedimentation, c-reactive protein measurement, ccl2 measurement, interleukin-6 measurement
+1378	blood sedimentation
+1379	blood sedimentation
+1387	qt interval
+1394	parkinson's disease
+1401	c-reactive protein measurement
+1408	body mass index, fasting blood glucose measurement
+1408	fasting blood glucose measurement
+1409	age-related nuclear cataract
+1431	body height
+1445	diastolic blood pressure
+1445	systolic blood pressure
+1445	blood pressure
+1452	esophageal carcinoma
+1456	total cholesterol measurement
+1456	low density lipoprotein cholesterol measurement
+1460	membranous glomerulonephritis
+1463	bipolar disorder
+1471	acute coronary syndrome
+1471	chronic kidney disease
+1475	phosphorus measurement
+1482	heart rate
+1493	rheumatoid arthritis
+1493	autoantibody measurement, type i diabetes mellitus
+1493	type i diabetes mellitus
+1512	type i diabetes mellitus
+1543	coffee consumption
+1548	emphysema pattern measurement
+1557	blood metabolite measurement
+1558	blood metabolite measurement
+1559	blood metabolite measurement
+1559	response to anticoagulant
+1579	blood metabolite measurement
+1579	metabolite measurement
+1586	systolic blood pressure
+1588	body height
+1588	follicle stimulating hormone measurement
+1588	estradiol measurement, sex hormone globulin binding measurement, testosterone measurement
+1588	beta-amyloid 1-42 measurement
+1591	calcium measurement
+1591	multiple sclerosis
+1601	pancreatic carcinoma
+1602	chronic kidney disease
+1605	age at menarche
+1609	parkinson's disease
+1611	ulcerative colitis
+1628	serum carcinoembryonic antigen measurement
+1636	blood metabolite measurement
+1636	serum metabolite measurement
+1636	metabolite measurement
+1636	angiotensin converting enzyme activity measurement
+1644	blood metabolite measurement
+1653	nephroblastoma
+1656	body height
+1665	pathological myopia
+1733	thyroid stimulating hormone measurement, thyroxine measurement
+1740	nephroblastoma
+1761	testicular carcinoma
+1768	hypospadias
+1780	cytokine measurement, response to vaccine
+1785	body height
+1787	homocysteine measurement
+1788	body height
+1788	crohn's disease
+1789	inflammatory bowel disease
+1795	body height
+1797	membranous glomerulonephritis
+1803	rheumatoid arthritis
+1805	qt interval
+1806	age at menarche
+1832	interstitial lung disease
+1874	high density lipoprotein cholesterol measurement
+1879	breast carcinoma
+1896	odontogenesis
+1902	corneal topography
+1906	vasoactive peptide measurement
+1911	total cholesterol measurement
+1952	total cholesterol measurement
+1952	low density lipoprotein cholesterol measurement
+1952	lipoprotein-associated phospholipase a(2) measurement
+1952	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+1952	coronary heart disease
+1952	progranulin measurement
+1952	lipid measurement
+1952	myocardial infarction
+1959	ewing sarcoma
+1997	crohn's disease
+2034	renal cell carcinoma
+2036	anthropometry
+2054	tissue plasminogen activator measurement
+2065	autoantibody measurement, type i diabetes mellitus
+2065	type i diabetes mellitus
+2066	breast carcinoma
+2078	leukocyte count
+2099	bone quantitative ultrasound measurement
+2099	anthropometry
+2099	sudden cardiac arrest
+2099	body height
+2099	bone density
+2100	atrial fibrillation
+2110	blood metabolite measurement
+2113	celiac disease
+2113	systemic lupus erythematosus
+2119	anthropometry
+2120	anthropometry
+2120	body height
+2122	blood urea nitrogen measurement, renal system measurement
+2122	systolic blood pressure
+2122	diastolic blood pressure
+2122	blood pressure
+2147	high density lipoprotein cholesterol measurement
+2149	mean platelet volume
+2153	venous thromboembolism
+2153	hippocampal atrophy
+2153	partial thromboplastin time
+2153	hematological measurement
+2155	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+2155	partial thromboplastin time
+2155	factor vii measurement
+2159	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+2160	venous thromboembolism
+2160	partial thromboplastin time
+2162	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+2175	homocysteine measurement
+2175	vitiligo
+2175	hair color
+2175	freckles
+2185	alzheimer's disease
+2186	lung adenocarcinoma
+2200	thoracic aortic aneurysm
+2202	body height
+2202	vital capacity
+2202	anthropometry
+2202	venous thromboembolism
+2205	serum IgE measurement
+2205	alkaline phosphatase measurement, atrial natriuretic factor measurement, bilirubin measurement, c-reactive protein measurement, ccl2 measurement, cd40 ligand measurement, serum alanine aminotransferase measurement, tumor necrosis factor-alpha measurement, vitamin D measurement, vitamin K measurement
+2212	inflammatory bowel disease
+2212	mucocutaneous lymph node syndrome
+2212	ulcerative colitis
+2237	cis/trans-18:2 fatty acid measurement, total trans-18:1 fatty acid measurement, trans fatty acid measurement, trans-16:1n7 fatty acid measurement, trans/cis-18:2 fatty acid measurement, trans/trans-18:2fatty acid measurement
+2237	arachidonic acid measurement, docosapentaenoic acid measurement, fatty acid measurement, linoleic acid measurement, linolenic acid measurement
+2237	blood metabolite measurement
+2237	phospholipid measurement
+2241	age-related hearing impairment
+2242	schizophrenia
+2242	diastolic blood pressure
+2242	systolic blood pressure
+2243	fibrinogen measurement
+2244	fibrinogen measurement
+2259	venous thromboembolism
+2262	tetralogy of fallot
+2263	breast carcinoma
+2264	body height
+2313	body height
+2328	blood metabolite measurement
+2355	inflammatory bowel disease
+2359	high density lipoprotein cholesterol measurement
+2444	total cholesterol measurement
+2444	low density lipoprotein cholesterol measurement
+2475	corneal topography
+2492	polycystic ovary syndrome
+2494	ulcerative colitis
+2494	pancreatic carcinoma
+2523	serum carcinoembryonic antigen measurement
+2524	serum lipase activity measurement
+2524	serum carcinoembryonic antigen measurement
+2524	blood metabolite measurement
+2524	total cholesterol measurement
+2524	cancer biomarker measurement
+2524	crohn's disease
+2524	vitamin B12 measurement
+2524	alkaline phosphatase measurement
+2524	serum gamma-glutamyl transferase measurement
+2524	metabolite measurement
+2524	vitamin measurement
+2524	vitamin B measurement, vitamin B12 measurement, vitamin B6 measurement
+2528	serum carcinoembryonic antigen measurement
+2528	cancer biomarker measurement
+2528	vitamin B12 measurement
+2528	N-glycan measurement
+2532	CCL5 measurement, HOMA-IR, IGFBP-1 measurement, IgF-1 measurement, adiponectin measurement, amino acid measurement, antioxidant measurement, arm span, aspartate aminotransferase measurement, birth weight, blood urea nitrogen measurement, body composition measurement, body height, body mass index, body weight, bone density, c-reactive protein measurement, ccl2 measurement, cortisol secretion measurement, diastolic blood pressure, energy expenditure, energy intake, estradiol measurement, fasting blood glucose measurement, fasting blood insulin measurement, fatty acid measurement, folic acid measurement, gestational age, head circumference, heart rate, high density lipoprotein cholesterol measurement, hip circumference, homocysteine measurement, hormone measurement, icam-1 measurement, igfbp-3 measurement, insulin sensitivity measurement, interleukin-6 measurement, lean body mass, leptin measurement, low density lipoprotein cholesterol measurement, maximal oxygen uptake measurement, metabolic rate measurement, physical activity, serum alanine aminotransferase measurement, sleep measurement, systolic blood pressure, testosterone measurement, thyroid stimulating hormone measurement, total cholesterol measurement, transforming growth factor beta measurement, triglyceride measurement, tumor necrosis factor-alpha measurement, urinary metabolite measurement, vitamin B12 measurement, waist circumference
+2532	ccl2 measurement
+2532	blood sedimentation, c-reactive protein measurement, ccl2 measurement, interleukin-6 measurement
+2532	serum IgE measurement
+2532	leukocyte count
+2539	erythrocyte indices
+2539	erythrocyte count, hematocrit, hemoglobin measurement, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, mean corpuscular volume, red blood cell distribution width
+2567	hepatitis
+2580	parkinson's disease
+2590	high density lipoprotein cholesterol measurement
+2590	triglyceride measurement
+2590	coronary artery calcification
+2622	suntan
+2625	acute lymphoblastic leukemia
+2625	colorectal cancer
+2625	rheumatoid arthritis
+2625	B-cell acute lymphoblastic leukemia
+2625	hodgkins lymphoma
+2630	blood urea nitrogen measurement, renal system measurement
+2638	vitamin D measurement
+2638	vitamin D-binding protein measurement
+2638	vitamin D deficiency
+2639	mean corpuscular hemoglobin
+2639	blood metabolite measurement
+2643	parkinson's disease
+2645	fasting blood glucose measurement
+2645	a1c measurement
+2645	type ii diabetes mellitus
+2645	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+2646	fasting blood glucose measurement
+2646	blood metabolite measurement
+2646	triglyceride measurement
+2646	total cholesterol measurement
+2646	calcium measurement
+2646	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+2646	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+2646	phospholipid measurement
+2646	urate measurement
+2646	serum albumin measurement
+2646	coronary artery calcification
+2646	sex hormone globulin binding measurement
+2646	body mass index, fasting blood insulin measurement
+2646	body mass index, fasting blood glucose measurement
+2646	serum non-albumin protein measurement
+2646	metabolic syndrome
+2646	metabolite measurement
+2646	platelet count
+2646	serum gamma-glutamyl transferase measurement
+2646	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+2646	metabolic syndrome, triglyceride measurement
+2646	blood pressure, triglyceride measurement
+2646	c-reactive protein measurement
+2646	crohn's disease
+2646	hypertriglyceridemia
+2646	chronic kidney disease
+2646	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+2646	fasting blood insulin measurement
+2646	glucose tolerance test
+2646	lipid measurement
+2646	uric acid measurement
+2646	glucose measurement, inflammatory response, insulin measurement, triglyceride measurement
+2678	blood metabolite measurement
+2678	serum gamma-glutamyl transferase measurement
+2678	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+2678	liver enzyme measurement
+2683	serum IgG glycosylation measurement
+2693	anthropometry
+2693	body height
+2696	body mass index
+2696	anthropometry
+2696	glucose tolerance test
+2720	atopic eczema
+2762	open-angle glaucoma
+2766	qt interval
+2766	blood metabolite measurement
+2768	body height
+2768	ulcerative colitis
+2778	blood urea nitrogen measurement, renal system measurement
+2780	anthropometry
+2791	heart rate
+2811	platelet count
+2822	alkaline phosphatase measurement
+2822	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+2822	liver enzyme measurement
+2823	schizophrenia
+2842	systemic lupus erythematosus
+2859	inflammatory bowel disease
+2859	sclerosing cholangitis, ulcerative colitis
+2863	hypertension
+2869	type ii diabetes mellitus
+2890	sudden cardiac arrest
+2893	refractive error
+2897	hepatocellular carcinoma
+2913	schizophrenia
+2914	osteosarcoma
+2915	suntan
+2965	blood metabolite measurement
+2965	serum amyloid a protein measurement
+2968	complement C3 measurement, complement C4 measurement
+2972	mean platelet volume
+2982	diastolic blood pressure
+3010	blood pressure
+3013	body height
+3013	anthropometry
+3039	hemoglobin measurement, mean corpuscular hemoglobin
+3044	hemoglobin E disease
+3075	myeloperoxidase measurement
+3075	age-related macular degeneration
+3075	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+3075	complement C3 measurement, complement C4 measurement
+3075	kidney disease
+3077	iron biomarker measurement, transferrin saturation measurement
+3077	ferritin measurement, iron biomarker measurement
+3077	iron biomarker measurement, serum iron measurement
+3077	iron biomarker measurement, transferrin measurement
+3077	total cholesterol measurement
+3077	low density lipoprotein cholesterol measurement
+3077	mean corpuscular hemoglobin
+3077	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+3077	diastolic blood pressure
+3077	hypertension
+3077	systolic blood pressure
+3077	serum hepcidin measurement
+3077	alcohol drinking
+3077	anemia
+3077	iron biomarker measurement
+3077	erythrocyte count, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, mean corpuscular volume
+3077	a1c measurement
+3077	mean corpuscular volume
+3077	hematocrit
+3077	hemoglobin measurement
+3077	erythrocyte count, leukocyte count, mean corpuscular hemoglobin, mean corpuscular volume, platelet count
+3084	thyroid stimulating hormone measurement, thyroxine measurement
+3084	thyroid carcinoma
+3098	erythrocyte measurement
+3098	a1c measurement
+3098	hematocrit
+3098	hemoglobin measurement
+3106	platelet count
+3106	HIV-1 infection
+3106	diffuse large b-cell lymphoma
+3106	beta-2 microglobulin measurement
+3107	beta-2 microglobulin measurement
+3107	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+3107	psoriatic arthritis
+3111	platelet count
+3113	chronic hepatitis B infection
+3113	hepatitis B infection
+3113	asthma
+3113	systemic scleroderma
+3115	chronic hepatitis B infection
+3115	Wegener's granulomatosis
+3115	hepatitis B infection
+3115	response to vaccine
+3115	asthma
+3115	systemic scleroderma
+3117	autoimmune hepatits type 1
+3117	ulcerative colitis
+3117	systemic lupus erythematosus
+3117	membranous glomerulonephritis
+3117	protein measurement
+3117	celiac disease
+3117	type i diabetes mellitus
+3118	chronic hepatitis B infection
+3119	Epstein-Barr virus infection, antibody measurement
+3119	drug-induced liver injury
+3120	chronic hepatitis B infection
+3120	systemic lupus erythematosus
+3122	parkinson's disease
+3122	total cholesterol measurement
+3122	low density lipoprotein cholesterol measurement
+3122	multiple sclerosis, oligoclonal band measurement
+3122	multiple sclerosis
+3122	systemic scleroderma
+3122	type i diabetes mellitus
+3126	multiple sclerosis, oligoclonal band measurement
+3128	multiple sclerosis, oligoclonal band measurement
+3131	urate measurement
+3137	graves disease
+3156	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+3156	total cholesterol measurement
+3156	low density lipoprotein cholesterol measurement
+3156	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+3170	fasting blood glucose measurement
+3172	total cholesterol measurement
+3172	high density lipoprotein cholesterol measurement
+3172	type ii diabetes mellitus
+3172	c-reactive protein measurement
+3174	urate measurement
+3200	hypospadias
+3201	hypospadias
+3213	obesity
+3221	bone density
+3222	bone density
+3273	partial thromboplastin time
+3305	complement C3 measurement, complement C4 measurement
+3360	pulmonary function measurement
+3363	white matter microstructure measurement
+3383	icam-1 measurement
+3383	adhesion molecule measurement, icam-1 measurement, soluble p-selectin measurement
+3386	icam-1 measurement
+3386	adhesion molecule measurement, icam-1 measurement, soluble p-selectin measurement
+3394	chronic lymphocytic leukemia
+3394	monocyte count
+3400	body height
+3425	bone density
+3428	erythrocyte count, hematocrit, hemoglobin measurement, leukocyte count
+3431	chronic lymphocytic leukemia
+3460	crohn's disease
+3479	fasting blood glucose measurement
+3479	fasting blood insulin measurement
+3480	body height
+3480	urate measurement
+3487	anthropometry
+3492	serum IgG measurement
+3554	serum ST2 measurement
+3559	response to reverse transcriptase inhibitor
+3559	rheumatoid arthritis
+3559	inflammatory bowel disease
+3559	type i diabetes mellitus
+3559	multiple sclerosis
+3559	autoantibody measurement, type i diabetes mellitus
+3559	crohn's disease
+3559	alopecia areata
+3559	vitiligo
+3570	Alzheimer's disease biomarker measurement, CCL4 measurement, alzheimer's disease, angiotensin-converting enzyme measurement, ccl2 measurement, interleukin-6 measurement, matrix metalloproteinase measurement
+3570	rheumatoid arthritis
+3570	fibrinogen measurement
+3570	c-reactive protein measurement
+3570	CCL4 measurement, adiponectin measurement, alkaline phosphatase measurement, alpha globulin measurement, alpha macroglobulin measurement, apolipoprotein a 1 measurement, aspartate aminotransferase measurement, c-reactive protein measurement, ccl2 measurement, ferritin measurement, fibrinogen measurement, fructose-bisphosphate aldolase measurement, glycoprotein measurement, hemoglobin measurement, hormone measurement, insulin like growth factor measurement, insulin measurement, interleukin 1 receptor antagonist measurement, interleukin 10 measurement, interleukin 12 measurement, interleukin 18 measurement, interleukin-1 beta measurement, interleukin-6 measurement, interleukin-6 receptor measurement, interleukin-8 measurement, l lactate dehydrogenase measurement, leptin measurement, myoglobin measurement, parathyroid hormone measurement, resistin measurement, serum albumin measurement, serum gamma-glutamyl transferase measurement, sex hormone globulin binding measurement, soluble transferrin receptor measurement, thyroid stimulating hormone measurement, transforming growth factor beta measurement, tumor necrosis factor-alpha measurement
+3586	Behcet's disease
+3586	ulcerative colitis
+3593	psoriasis
+3595	biliary liver cirrhosis
+3596	atopic eczema
+3596	serum IgE measurement
+3596	psoriasis
+3609	body height
+3626	urate measurement
+3643	body height
+3643	triglyceride measurement
+3643	thyroid stimulating hormone measurement, thyroxine measurement
+3646	dupuytren contracture
+3655	prostate carcinoma
+3659	platelet count
+3662	chronic lymphocytic leukemia
+3662	hair color
+3662	suntan
+3662	skin pigmentation
+3662	progressive supranuclear palsy
+3662	freckles
+3662	eye color
+3664	cleft lip
+3672	serum gamma-glutamyl transferase measurement
+3676	monocyte count
+3676	leukocyte count
+3680	pr interval
+3683	ulcerative colitis
+3684	rheumatoid arthritis
+3684	systemic lupus erythematosus, systemic scleroderma
+3684	systemic lupus erythematosus
+3687	systemic lupus erythematosus
+3699	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+3700	body mass index
+3704	chronic hepatitis C infection
+3704	anemia, response to ribavirin
+3705	platelet count
+3708	breast carcinoma
+3709	Kashin-Beck disease
+3710	graves disease
+3712	blood metabolite measurement
+3712	interstitial lung disease
+3712	metabolite measurement
+3717	myeloproliferative disorder
+3752	P wave duration
+3752	prostate carcinoma
+3752	cytokine measurement, response to vaccine
+3753	qt interval
+3753	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+3757	qt interval
+3757	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+3763	alcohol dependence, frontal theta oscillation measurement
+3767	type ii diabetes mellitus
+3773	body height
+3778	hypospadias
+3778	obesity
+3782	atrial fibrillation
+3783	breast carcinoma
+3784	type ii diabetes mellitus
+3784	qt interval
+3784	body mass index
+3784	body height
+3784	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+3818	blood metabolite measurement
+3818	serum metabolite measurement
+3818	vasoactive peptide measurement
+3818	coronary artery calcification
+3818	metabolite measurement
+3827	plasma renin activity measurement
+3827	blood metabolite measurement
+3827	partial thromboplastin time
+3827	adiponectin measurement
+3840	pit and fissure surface dental caries
+3908	refractive error
+3911	colorectal cancer
+3939	serum amyloid a protein measurement
+3949	low density lipoprotein cholesterol measurement
+3949	total cholesterol measurement
+3949	abdominal aortic aneurysm
+3949	lipid measurement
+3949	coronary artery calcification
+3949	lipoprotein-associated phospholipase a(2) measurement
+3949	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+3949	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+3953	c-reactive protein measurement
+3953	obesity
+3953	leptin receptor measurement
+3980	qt interval
+3988	coronary heart disease
+3992	cis/trans-18:2 fatty acid measurement, total trans-18:1 fatty acid measurement, trans fatty acid measurement, trans-16:1n7 fatty acid measurement, trans/cis-18:2 fatty acid measurement, trans/trans-18:2fatty acid measurement
+3992	arachidonic acid measurement, docosapentaenoic acid measurement, fatty acid measurement, linoleic acid measurement, linolenic acid measurement
+3992	body height
+3992	laryngeal squamous cell carcinoma
+3992	omega-6 polyunsaturated fatty acid measurement
+3992	blood metabolite measurement
+3992	low density lipoprotein cholesterol measurement
+3992	total cholesterol measurement
+3992	triglyceride measurement
+3992	high density lipoprotein cholesterol measurement
+3992	heart rate
+3992	metabolite measurement
+3992	body mass index, fasting blood glucose measurement
+3992	lipid measurement
+3992	phospholipid measurement
+3992	resting heart rate
+3992	fasting blood glucose measurement
+3995	sphingolipid measurement
+4004	neuroblastoma
+4008	type i diabetes mellitus
+4012	Birdshot chorioretinopathy
+4016	exfoliation syndrome
+4016	anthropometry
+4016	body height
+4018	low density lipoprotein cholesterol measurement, response to statin
+4018	coronary heart disease, stroke
+4018	coronary heart disease, large artery stroke
+4018	aortic valve calcification
+4018	lipoprotein-associated phospholipase a(2) measurement
+4018	response to statin
+4018	apolipoprotein a 1 measurement
+4018	coronary heart disease
+4018	CCL4 measurement, adiponectin measurement, alkaline phosphatase measurement, alpha globulin measurement, alpha macroglobulin measurement, apolipoprotein a 1 measurement, aspartate aminotransferase measurement, c-reactive protein measurement, ccl2 measurement, ferritin measurement, fibrinogen measurement, fructose-bisphosphate aldolase measurement, glycoprotein measurement, hemoglobin measurement, hormone measurement, insulin like growth factor measurement, insulin measurement, interleukin 1 receptor antagonist measurement, interleukin 10 measurement, interleukin 12 measurement, interleukin 18 measurement, interleukin-1 beta measurement, interleukin-6 measurement, interleukin-6 receptor measurement, interleukin-8 measurement, l lactate dehydrogenase measurement, leptin measurement, myoglobin measurement, parathyroid hormone measurement, resistin measurement, serum albumin measurement, serum gamma-glutamyl transferase measurement, sex hormone globulin binding measurement, soluble transferrin receptor measurement, thyroid stimulating hormone measurement, transforming growth factor beta measurement, tumor necrosis factor-alpha measurement
+4023	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+4023	metabolic syndrome
+4023	triglyceride measurement
+4023	high density lipoprotein cholesterol measurement, triglyceride measurement
+4023	blood pressure, triglyceride measurement
+4023	high density lipoprotein cholesterol measurement
+4023	lipid measurement
+4026	neoplasm of mature b-cells
+4026	allergic sensitization measurement
+4026	allergy
+4026	vitiligo
+4026	celiac disease
+4035	migraine without aura
+4035	migraine disorder
+4035	abdominal aortic aneurysm
+4041	bone density
+4046	inflammatory bowel disease
+4046	ulcerative colitis
+4046	dense area measurement, mammographic density measurement
+4046	breast carcinoma
+4052	body height
+4052	anthropometry
+4053	body height
+4088	asthma, seasonal allergic rhinitis
+4088	corneal topography
+4088	inflammatory bowel disease
+4088	crohn's disease
+4088	asthma
+4092	colorectal cancer
+4116	blood metabolite measurement
+4137	parkinson's disease
+4137	interstitial lung disease
+4137	bone density
+4137	progressive supranuclear palsy
+4140	bone density
+4157	suntan
+4157	sunburn
+4157	skin pigmentation
+4157	hair color
+4157	basal cell carcinoma
+4157	freckles
+4157	skin sensitivity to sun
+4179	febrile seizures
+4179	heart rate
+4194	self reported educational attainment
+4194	breast carcinoma
+4194	prostate carcinoma
+4204	rheumatoid arthritis
+4208	bone density
+4208	mean platelet volume
+4208	platelet count
+4209	migraine disorder
+4211	PR segment
+4211	pr interval
+4211	restless legs syndrome
+4214	breast carcinoma
+4215	body height
+4237	body height
+4237	anthropometry
+4237	pulmonary function measurement
+4248	serum IgG glycosylation measurement
+4254	testicular carcinoma
+4277	dengue hemorrhagic fever
+4285	pathological myopia
+4299	triglyceride measurement
+4299	systemic lupus erythematosus
+4316	prostate carcinoma
+4321	emphysema pattern measurement
+4331	cytokine measurement, response to vaccine
+4336	progressive supranuclear palsy
+4343	diastolic blood pressure
+4343	systolic blood pressure
+4354	erythrocyte count, hematocrit, hemoglobin measurement, leukocyte count
+4354	mean corpuscular volume
+4363	blood metabolite measurement
+4430	serum gamma-glutamyl transferase measurement
+4477	prostate carcinoma
+4477	cancer biomarker measurement
+4477	prostate specific antigen measurement
+4485	inflammatory bowel disease
+4485	sclerosing cholangitis
+4485	crohn's disease
+4485	ulcerative colitis
+4507	melanoma
+4520	rheumatoid arthritis
+4524	homocysteine measurement
+4524	blood pressure
+4524	systolic blood pressure
+4542	body height
+4544	body mass index, fasting blood glucose measurement
+4544	fasting blood glucose measurement
+4544	metabolite measurement
+4548	homocysteine measurement
+4582	magnesium measurement
+4583	interstitial lung disease
+4600	melanoma
+4607	thrombin generation potential measurement
+4624	heart rate
+4624	resting heart rate
+4624	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+4633	coronary heart disease
+4642	refractive error
+4643	coronary artery calcification
+4650	a1c measurement
+4664	biliary liver cirrhosis
+4678	blood metabolite measurement
+4684	cardiovascular measurement, left ventricular hypertrophy
+4705	sensory perception of smell
+4734	brain connectivity measurement
+4734	keloid
+4739	prostate carcinoma
+4745	fasting blood glucose measurement, response to hydrochlorothiazide, triglyceride measurement
+4773	allergy
+4774	QRS duration
+4774	thyroid stimulating hormone measurement, thyroxine measurement
+4778	mean platelet volume
+4782	body height
+4790	ulcerative colitis
+4794	rheumatoid arthritis
+4810	nephroblastoma
+4843	nitric oxide exhalation measurement
+4843	psoriasis
+4855	prostate carcinoma
+4855	complement C3 measurement, complement C4 measurement
+4855	age-related macular degeneration
+4855	asthma
+4855	systemic scleroderma
+4855	schizophrenia
+4856	blood pressure
+4883	body height
+4900	schizophrenia
+4905	parkinson's disease
+4925	body height
+4940	alcohol drinking
+4948	hair color
+4978	sporadic amyotrophic lateral sclerosis
+4988	chronic lymphocytic leukemia
+5004	thrombin generation potential measurement
+5004	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+5017	urate measurement
+5046	dyslexia, functional laterality
+5049	CCL4 measurement, adiponectin measurement, alkaline phosphatase measurement, alpha globulin measurement, alpha macroglobulin measurement, apolipoprotein a 1 measurement, aspartate aminotransferase measurement, c-reactive protein measurement, ccl2 measurement, ferritin measurement, fibrinogen measurement, fructose-bisphosphate aldolase measurement, glycoprotein measurement, hemoglobin measurement, hormone measurement, insulin like growth factor measurement, insulin measurement, interleukin 1 receptor antagonist measurement, interleukin 10 measurement, interleukin 12 measurement, interleukin 18 measurement, interleukin-1 beta measurement, interleukin-6 measurement, interleukin-6 receptor measurement, interleukin-8 measurement, l lactate dehydrogenase measurement, leptin measurement, myoglobin measurement, parathyroid hormone measurement, resistin measurement, serum albumin measurement, serum gamma-glutamyl transferase measurement, sex hormone globulin binding measurement, soluble transferrin receptor measurement, thyroid stimulating hormone measurement, transforming growth factor beta measurement, tumor necrosis factor-alpha measurement
+5052	homocysteine measurement
+5053	blood metabolite measurement
+5054	plasminogen activator inhibitor 1 measurement
+5069	body height
+5077	facial morphology
+5079	body mass index, fat body mass, obesity
+5081	cleft lip
+5083	breast carcinoma
+5089	asthma
+5089	atopic eczema
+5096	body height
+5122	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+5122	insulin measurement
+5125	anthropometry
+5125	body height
+5138	rheumatoid arthritis
+5140	vitamin D measurement
+5144	esophageal carcinoma
+5156	corneal topography
+5156	astigmatism
+5174	contrast sensitivity measurement
+5174	uric acid measurement
+5184	adiponectin measurement
+5184	triglyceride measurement
+5184	high density lipoprotein cholesterol measurement
+5195	breast carcinoma
+5205	serum gamma-glutamyl transferase measurement
+5251	cytokine measurement, response to vaccine
+5265	coronary artery calcification
+5286	bipolar disorder, schizophrenia
+5305	B-cell acute lymphoblastic leukemia
+5311	renal system measurement, uric acid measurement
+5324	body height
+5328	inflammatory bowel disease
+5332	neutrophil count
+5334	allergy
+5339	total cholesterol measurement
+5339	low density lipoprotein cholesterol measurement
+5339	platelet count
+5339	fibrinogen measurement
+5340	plasma plasminogen measurement
+5340	apolipoprotein a 1 measurement
+5341	celiac disease
+5360	lipid measurement
+5371	osteitis deformans
+5371	body height
+5378	ferritin measurement
+5408	phospholipid measurement
+5423	tissue plasminogen activator measurement
+5428	age at menopause
+5444	metabolite measurement
+5444	arylesterase enzyme measurement
+5460	type ii diabetes mellitus
+5460	membranous glomerulonephritis
+5467	body height
+5468	type ii diabetes mellitus
+5481	blood metabolite measurement
+5481	metabolite measurement
+5524	blood metabolite measurement
+5536	crohn's disease
+5562	gastric carcinoma
+5578	qt interval
+5579	inflammatory bowel disease
+5581	erythrocyte count, hematocrit, hemoglobin measurement, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, mean corpuscular volume, red blood cell distribution width
+5581	erythrocyte measurement
+5581	hematocrit
+5581	hemoglobin measurement
+5583	rheumatoid arthritis
+5583	obesity
+5592	age-related hearing impairment
+5594	multiple sclerosis
+5607	age at menarche
+5607	anthropometry
+5607	body mass index
+5607	restless legs syndrome
+5621	creutzfeldt jacob disease
+5624	protein c measurement
+5644	pancreatitis
+5654	age-related macular degeneration
+5681	high density lipoprotein cholesterol measurement
+5696	kidney disease
+5702	anthropometry
+5709	leukocyte count
+5715	urinary metabolite measurement
+5719	platelet count
+5723	blood metabolite measurement
+5723	homocysteine measurement
+5727	body height
+5727	pulmonary function measurement
+5739	ulcerative colitis
+5771	rheumatoid arthritis
+5771	inflammatory bowel disease
+5771	esophageal carcinoma, squamous cell carcinoma
+5771	immune system disease
+5771	crohn's disease
+5771	celiac disease
+5771	type i diabetes mellitus
+5780	body height
+5781	erythrocyte count, leukocyte count, mean corpuscular hemoglobin, mean corpuscular volume, platelet count
+5784	body height
+5784	age-related hearing impairment
+5789	response to vaccine
+5789	restless legs syndrome
+5789	type ii diabetes mellitus
+5795	thrombin generation potential measurement
+5795	anthropometry
+5795	body height
+5796	age at menarche
+5799	pathological myopia
+5801	refractive error
+5819	Alzheimer's disease neuropathologic change, dementia
+5819	neuritic plaque measurement
+5819	cerebral amyloid angiopathy
+5819	neurofibrilliary tangles measurement
+5819	alzheimer's disease
+5819	high density lipoprotein cholesterol measurement
+5820	diffuse large b-cell lymphoma
+5832	blood metabolite measurement
+5836	acute lymphoblastic leukemia
+5866	sphingolipid measurement
+5871	urate measurement
+5890	rheumatoid arthritis
+5890	prostate carcinoma
+5890	breast carcinoma
+5890	age-related macular degeneration
+5890	platelet count
+5890	biliary liver cirrhosis
+5890	body height
+5894	total cholesterol measurement
+5915	pulmonary function measurement
+5922	erythrocyte measurement
+5923	refractive error
+5949	corneal topography
+5966	rheumatoid arthritis
+5978	body height
+5979	Hirschsprung disease
+5980	metabolite measurement
+5980	psoriasis
+6014	parkinson's disease
+6016	inflammatory bowel disease
+6041	multiple sclerosis
+6051	butyrylcholinesterase measurement
+6095	age at menarche
+6095	serum gamma-glutamyl transferase measurement
+6095	c-reactive protein measurement
+6097	inflammatory bowel disease
+6120	blood metabolite measurement
+6184	monocyte count
+6258	age at menarche
+6311	thyroid peroxidase antibody measurement
+6311	urate measurement
+6311	vitiligo
+6311	blood pressure
+6311	immune system disease
+6311	eye measurement
+6311	chronic kidney disease
+6311	celiac disease
+6311	diastolic blood pressure
+6326	febrile seizures
+6331	qt interval
+6331	Brugada syndrome
+6331	QRS duration
+6331	pr interval
+6331	heart function measurement
+6331	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+6336	pr interval
+6336	qt interval
+6336	PR segment
+6336	P wave duration
+6336	Brugada syndrome
+6336	QRS duration
+6336	heart function measurement
+6336	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+6336	electrocardiography
+6403	adhesion molecule measurement, icam-1 measurement, soluble p-selectin measurement
+6427	eye measurement
+6434	age at menarche
+6441	rheumatoid arthritis
+6441	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+6462	sex hormone globulin binding measurement
+6462	hormone measurement
+6480	serum IgG glycosylation measurement
+6480	esophageal carcinoma, squamous cell carcinoma
+6484	total cholesterol measurement
+6484	low density lipoprotein cholesterol measurement
+6484	alkaline phosphatase measurement
+6499	blood metabolite measurement
+6499	age-related macular degeneration
+6506	vitiligo
+6509	metabolite measurement
+6514	body mass index, fasting blood glucose measurement
+6514	serum gamma-glutamyl transferase measurement
+6514	fasting blood glucose measurement
+6539	blood metabolite measurement
+6539	insulin sensitivity measurement
+6540	blood metabolite measurement
+6540	serum metabolite measurement
+6540	chronic kidney disease
+6546	qt interval
+6563	bladder carcinoma
+6568	blood metabolite measurement
+6568	urate measurement
+6568	iron biomarker measurement
+6568	uric acid measurement
+6569	chronic kidney disease
+6580	blood metabolite measurement
+6580	total cholesterol measurement
+6580	low density lipoprotein cholesterol measurement
+6580	metabolite measurement
+6581	colorectal cancer
+6581	coronary heart disease
+6581	prostate carcinoma
+6582	blood metabolite measurement
+6582	chronic kidney disease
+6582	serum creatinine measurement
+6583	blood metabolite measurement
+6583	metabolite measurement
+6584	blood metabolite measurement
+6586	body height
+6597	coronary heart disease, large artery stroke
+6597	coronary heart disease, stroke
+6597	coronary heart disease
+6597	myocardial infarction
+6598	serum IgG glycosylation measurement
+6622	parkinson's disease
+6641	pathological myopia
+6650	mean corpuscular hemoglobin concentration
+6653	alzheimer's disease
+6660	azoospermia
+6665	iga glomerulonephritis
+6689	biliary liver cirrhosis
+6708	a1c measurement
+6708	erythrocyte count, mean corpuscular hemoglobin concentration
+6711	bone quantitative ultrasound measurement
+6718	blood metabolite measurement
+6733	schizophrenia
+6773	body height
+6773	psoriasis
+6774	crohn's disease
+6774	inflammatory bowel disease
+6774	multiple sclerosis
+6775	rheumatoid arthritis
+6775	Sjogren syndrome
+6775	systemic lupus erythematosus, systemic scleroderma
+6775	Behcet's disease
+6775	systemic lupus erythematosus
+6775	hepatocellular carcinoma
+6775	inflammatory bowel disease
+6775	systemic scleroderma
+6775	immune system disease
+6778	allergic sensitization measurement
+6778	serum IgE measurement
+6810	response to anticoagulant
+6820	serum carcinoembryonic antigen measurement
+6821	rheumatoid arthritis
+6821	polycystic ovary syndrome
+6822	blood metabolite measurement
+6832	cytokine measurement, response to vaccine
+6838	venous thromboembolism
+6850	vasuclar dementia
+6869	brain connectivity measurement
+6876	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+6891	complement C3 measurement, complement C4 measurement
+6909	serum creatinine measurement
+6910	pr interval
+6910	heart function measurement
+6910	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+6913	waist-hip ratio
+6925	schizophrenia
+6925	fuchs' endothelial dystrophy
+6927	c-reactive protein measurement
+6927	total cholesterol measurement
+6927	low density lipoprotein cholesterol measurement
+6927	c-reactive protein measurement, leukocyte count
+6927	serum gamma-glutamyl transferase measurement
+6928	type ii diabetes mellitus
+6928	ovarian carcinoma
+6928	endometrial neoplasm
+6928	prostate specific antigen measurement
+6928	prostate carcinoma
+6929	hodgkins lymphoma
+6934	type ii diabetes mellitus
+6934	colorectal cancer
+6934	body mass index, fasting blood glucose measurement
+6934	insulin measurement
+6934	autoantibody measurement, type ii diabetes mellitus
+6941	chronic hepatitis B infection
+6941	membranous glomerulonephritis
+6943	coronary heart disease
+6947	stroke, vitamin B measurement
+6947	vitamin measurement
+6948	nephroblastoma
+6955	narcolepsy
+7015	pancreatic carcinoma
+7015	central nervous system cancer
+7015	interstitial lung disease
+7015	breast carcinoma
+7015	lung carcinoma
+7015	lung adenocarcinoma
+7015	prostate carcinoma
+7015	testicular carcinoma
+7018	hereditary hemochromatosis, serum iron measurement, transferrin measurement
+7018	iron biomarker measurement, transferrin saturation measurement
+7018	iron biomarker measurement, transferrin measurement
+7018	iron biomarker measurement, serum iron measurement
+7018	iron biomarker measurement
+7018	serum hepcidin measurement
+7018	alcohol drinking
+7018	anemia
+7021	anthropometry
+7021	body mass index
+7021	obesity
+7029	chronic kidney disease
+7036	iron biomarker measurement, serum iron measurement
+7036	iron biomarker measurement, transferrin saturation measurement
+7036	hematocrit
+7036	erythrocyte count, leukocyte count, mean corpuscular hemoglobin, mean corpuscular volume, platelet count
+7036	erythrocyte measurement
+7037	mean corpuscular hemoglobin
+7037	mean corpuscular volume
+7038	graves disease
+7042	body height
+7042	chronic obstructive pulmonary disease
+7046	age-related macular degeneration
+7053	basal cell carcinoma
+7062	hair morphology
+7066	platelet count
+7068	erythrocyte measurement
+7068	hemoglobin measurement, mean corpuscular hemoglobin
+7082	corneal topography
+7086	blood metabolite measurement
+7092	post-traumatic stress disorder
+7096	asthma, seasonal allergic rhinitis
+7128	Sjogren syndrome
+7128	systemic lupus erythematosus
+7128	psoriasis
+7132	multiple sclerosis
+7132	biliary liver cirrhosis
+7145	pulmonary function measurement
+7148	diastolic blood pressure
+7148	systolic blood pressure
+7148	hypertension
+7148	atopic eczema
+7148	complement C3 measurement, complement C4 measurement
+7148	age-related macular degeneration
+7148	systemic lupus erythematosus
+7150	total cholesterol measurement
+7150	low density lipoprotein cholesterol measurement
+7157	basal cell carcinoma
+7157	sex hormone globulin binding measurement
+7168	platelet count
+7171	mean platelet volume
+7171	platelet count
+7173	thyroid peroxidase antibody measurement
+7185	rheumatoid arthritis
+7201	lean body mass
+7227	high density lipoprotein cholesterol measurement
+7253	graves disease
+7267	eye color
+7291	large artery stroke
+7291	coronary heart disease, large artery stroke
+7291	stroke
+7297	rheumatoid arthritis
+7297	autoantibody measurement, type i diabetes mellitus
+7297	crohn's disease
+7297	psoriasis
+7297	type i diabetes mellitus
+7299	suntan
+7299	melanoma
+7299	eye color
+7299	vitiligo
+7299	skin pigmentation
+7299	freckles
+7319	brain connectivity measurement
+7325	type ii diabetes mellitus
+7332	hepatitis B infection
+7332	high density lipoprotein cholesterol measurement
+7332	erythrocyte measurement
+7332	inflammatory bowel disease
+7332	crohn's disease
+7332	systemic lupus erythematosus
+7356	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+7365	nicotine glucuronidation measurement
+7365	cotinine glucuronidation measurement
+7369	hypertension
+7369	chronic kidney disease, serum creatinine measurement
+7388	age-related hearing impairment
+7434	pathological myopia
+7436	low density lipoprotein cholesterol measurement
+7436	total cholesterol measurement
+7439	phospholipid measurement
+7450	coagulation factor measurement
+7455	erythrocyte count, mean corpuscular hemoglobin concentration
+7466	type ii diabetes mellitus
+7473	parkinson's disease
+7494	esophageal carcinoma, squamous cell carcinoma
+7536	urate measurement
+7709	dilated cardiomyopathy
+7726	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+7726	schizophrenia
+7813	multiple sclerosis
+7840	blood metabolite measurement
+7840	urinary metabolite measurement
+7840	metabolite measurement
+7849	blood urea nitrogen measurement, renal system measurement
+7884	body height
+7916	blood metabolite measurement
+7916	age at menopause
+7916	membranous glomerulonephritis
+7917	hypertension
+7917	systolic blood pressure
+7917	diastolic blood pressure
+7917	rheumatoid arthritis
+7917	lung adenocarcinoma
+7917	lung carcinoma
+7918	membranous glomerulonephritis
+7936	age-related macular degeneration
+7941	lipoprotein-associated phospholipase a(2) measurement
+7984	breast carcinoma
+8000	duodenal ulcer
+8000	bladder carcinoma
+8019	platelet count
+8022	thyroid stimulating hormone measurement, thyroxine measurement
+8028	breast carcinoma
+8028	meningioma
+8029	stroke, vitamin B measurement
+8029	homocysteine measurement
+8029	albuminuria
+8029	vitamin measurement
+8089	venous thromboembolism
+8091	odontogenesis
+8091	tooth eruption
+8091	anthropometry
+8091	birth weight
+8091	polycystic ovary syndrome
+8091	infant head circumference
+8091	brain measurement
+8091	body height
+8091	type ii diabetes mellitus
+8131	sickle cell anemia
+8131	mean corpuscular hemoglobin concentration
+8131	erythrocyte count, hematocrit, hemoglobin measurement, leukocyte count
+8131	mean corpuscular hemoglobin
+8131	mean corpuscular volume
+8131	erythrocyte measurement
+8140	blood metabolite measurement
+8170	blood urea nitrogen measurement, renal system measurement
+8170	androgenetic alopecia
+8170	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+8170	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+8178	blood metabolite measurement
+8178	breast carcinoma
+8200	infant body height
+8200	anthropometry
+8200	body height
+8209	inflammatory bowel disease
+8209	ulcerative colitis
+8209	crohn's disease
+8224	body height
+8277	bilirubin measurement
+8312	bone density
+8315	myocardial infarction
+8315	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+8320	rheumatoid arthritis
+8320	hodgkins lymphoma
+8351	body height
+8351	anthropometry
+8379	bipolar disorder, schizophrenia
+8379	bipolar disorder, schizoaffective disorder, schizophrenia
+8379	schizophrenia
+8379	testicular carcinoma
+8395	chronic kidney disease
+8396	body height
+8398	melanoma
+8416	low density lipoprotein cholesterol measurement
+8440	drug dependence
+8464	anthropometry
+8464	body height
+8477	inflammatory bowel disease
+8477	crohn's disease
+8514	qt interval
+8522	intraocular pressure measurement
+8527	calcium measurement
+8527	bilirubin measurement
+8529	metabolite measurement
+8529	vitamin E measurement
+8529	response to anticoagulant
+8542	focal segmental glomerulosclerosis
+8558	body height
+8558	melanoma
+8558	hair color
+8567	body mass index, fasting blood glucose measurement
+8567	insulin measurement
+8567	fasting blood glucose measurement
+8600	bone density
+8613	coronary heart disease
+8622	thyroid stimulating hormone measurement
+8622	thyroid stimulating hormone measurement, thyroxine measurement
+8622	thyroid function
+8626	lung adenocarcinoma, lung carcinoma, squamous cell carcinoma
+8626	lung carcinoma
+8626	lung adenocarcinoma
+8626	acute lymphoblastic leukemia
+8630	age at menopause
+8631	ovarian carcinoma
+8632	triglyceride measurement
+8635	crohn's disease
+8635	vitiligo
+8638	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+8644	metabolite measurement
+8647	a1c measurement
+8647	total cholesterol measurement
+8647	alkaline phosphatase measurement
+8647	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+8651	crohn's disease, psoriasis
+8671	qt interval
+8701	total cholesterol measurement
+8701	low density lipoprotein cholesterol measurement
+8701	multiple myeloma
+8701	gastric carcinoma, lung carcinoma, squamous cell carcinoma
+8728	pulmonary function measurement
+8733	metabolite measurement
+8738	body height
+8740	multiple sclerosis
+8761	high density lipoprotein cholesterol measurement
+8767	leprosy
+8792	bone density
+8801	alzheimer's disease, beta-amyloid 1-42 measurement
+8801	blood metabolite measurement
+8801	body height
+8807	crohn's disease
+8808	serum ST2 measurement
+8809	atopic eczema
+8809	asthma
+8809	celiac disease
+8835	body height
+8835	anthropometry
+8844	crohn's disease
+8847	anthropometry
+8854	osteoarthritis
+8863	crohn's disease
+8872	pulmonary function measurement
+8882	triglyceride measurement
+8882	blood metabolite measurement
+8882	coronary heart disease, large artery stroke
+8882	low density lipoprotein cholesterol measurement
+8882	total cholesterol measurement
+8882	high density lipoprotein cholesterol measurement
+8882	coronary artery calcification
+8882	response to vitamin
+8882	metabolic syndrome
+8882	phospholipid measurement
+8882	lipoprotein-associated phospholipase a(2) measurement
+8882	vitamin E measurement
+8882	blood pressure, triglyceride measurement
+8882	metabolic syndrome, triglyceride measurement
+8882	high density lipoprotein cholesterol measurement, triglyceride measurement
+8882	coronary heart disease
+8882	hypertriglyceridemia
+8884	blood metabolite measurement
+8887	hypospadias
+8888	testicular carcinoma
+8897	lung carcinoma
+8897	iga glomerulonephritis
+8913	alzheimer's disease
+8914	cytokine measurement, response to vaccine
+8924	eye color
+8924	hair color
+8924	suntan
+8927	ulcerative colitis
+8935	type i diabetes mellitus
+8939	anthropometry
+8939	bone density
+8939	body height
+8972	blood metabolite measurement
+8972	sensory perception of bitter taste
+8986	biliary liver cirrhosis
+8991	serum copper measurement
+8997	mean platelet volume
+9027	blood metabolite measurement
+9027	serum metabolite measurement
+9027	Hydroxy-leucine measurement
+9027	chronic kidney disease
+9031	urate measurement
+9031	triglyceride measurement
+9032	coronary artery calcification
+9032	sphingolipid measurement
+9033	blood metabolite measurement
+9033	serum metabolite measurement
+9033	phospholipid measurement
+9033	metabolite measurement
+9034	Alzheimer's disease biomarker measurement, CCL4 measurement, alzheimer's disease, angiotensin-converting enzyme measurement, ccl2 measurement, interleukin-6 measurement, matrix metalloproteinase measurement
+9057	blood metabolite measurement
+9057	metabolite measurement
+9070	age at menopause
+9135	rheumatoid arthritis
+9145	rheumatoid arthritis
+9156	age at menopause
+9158	inflammatory bowel disease
+9159	iron biomarker measurement
+9159	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+9162	schizophrenia
+9173	leprosy
+9173	asthma, seasonal allergic rhinitis
+9173	serum ST2 measurement
+9173	allergic sensitization measurement
+9173	asthma
+9173	eosinophil count
+9228	triglyceride measurement
+9229	age at menarche
+9231	serum gamma-glutamyl transferase measurement
+9275	c-reactive protein measurement
+9321	body height
+9369	anthropometry
+9369	obesity
+9369	body mass index
+9370	adiponectin measurement
+9379	urate measurement
+9379	renal system measurement, uric acid measurement
+9404	inflammatory bowel disease
+9414	refractive error
+9415	cis/trans-18:2 fatty acid measurement, total trans-18:1 fatty acid measurement, trans fatty acid measurement, trans-16:1n7 fatty acid measurement, trans/cis-18:2 fatty acid measurement, trans/trans-18:2fatty acid measurement
+9415	arachidonic acid measurement, docosapentaenoic acid measurement, fatty acid measurement, linoleic acid measurement, linolenic acid measurement
+9415	iron biomarker measurement, transferrin measurement
+9415	qt interval
+9415	omega-6 polyunsaturated fatty acid measurement
+9415	blood metabolite measurement
+9415	alkaline phosphatase measurement
+9415	phospholipid measurement
+9415	total cholesterol measurement
+9415	low density lipoprotein cholesterol measurement
+9429	uric acid measurement
+9429	gout
+9429	urate measurement
+9429	response to statin
+9451	body height
+9451	progressive supranuclear palsy
+9456	selenium measurement
+9457	migraine disorder
+9457	migraine without aura
+9474	rheumatoid arthritis
+9489	high density lipoprotein cholesterol measurement
+9497	breast carcinoma
+9508	lipid measurement
+9515	aging
+9516	qt interval
+9531	dilated cardiomyopathy
+9553	body mass index, fasting blood glucose measurement
+9563	anthropometry
+9570	systolic blood pressure
+9570	blood pressure
+9570	heart function measurement
+9616	cirrhosis of liver, hepatitis C infection
+9628	schizophrenia
+9630	age-related hearing impairment
+9630	venous thromboembolism
+9651	schizophrenia
+9651	azoospermia
+9663	Trypanosoma cruzi seropositivity, pr interval
+9663	asthma, body mass index
+9677	cancer biomarker measurement
+9681	chronic hepatitis C infection
+9682	age at menarche
+9687	endometriosis
+9722	qt interval
+9722	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+9722	electrocardiography
+9727	venous thromboembolism
+9732	c-reactive protein measurement, leukocyte count
+9734	androgenetic alopecia
+9734	stroke
+9745	schizophrenia
+9745	pathological myopia
+9777	inflammatory bowel disease
+9778	platelet count
+9780	erythrocyte measurement
+9787	protein measurement
+9839	pathological myopia
+9846	age at menarche
+9846	alzheimer's disease
+9855	fibrinogen measurement
+9855	prostate carcinoma
+9866	age at menarche
+9866	anthropometry
+9874	age at menopause
+9905	insulin measurement
+9911	platelet count
+9911	mean platelet volume
+9914	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+9926	phospholipid measurement
+9945	body height
+9966	leprosy
+9966	serum IgA measurement
+9966	inflammatory bowel disease
+9966	biliary liver cirrhosis
+9966	ulcerative colitis
+9966	crohn's disease
+10003	leukocyte count
+10019	platelet count
+10019	blood metabolite measurement
+10019	erythrocyte measurement
+10019	hypothyroidism
+10019	diastolic blood pressure
+10019	autoantibody measurement, type i diabetes mellitus
+10019	type i diabetes mellitus
+10019	systolic blood pressure
+10019	eosinophil count
+10021	atrial fibrillation
+10046	cytokine measurement, response to vaccine
+10050	blood metabolite measurement
+10050	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+10057	anterior chamber depth measurement
+10060	hippocampal sclerosis of aging
+10061	serum IgG glycosylation measurement
+10061	bone density
+10062	metabolic syndrome
+10067	crohn's disease
+10101	blood metabolite measurement
+10101	igfbp-3 measurement
+10109	leukocyte count
+10125	rheumatoid arthritis
+10125	type ii diabetes mellitus
+10133	osteitis deformans
+10144	chronic obstructive pulmonary disease
+10144	chronic bronchitis, chronic obstructive pulmonary disease
+10144	high density lipoprotein cholesterol measurement
+10144	interstitial lung disease
+10144	pulmonary function measurement
+10152	butyrylcholinesterase measurement
+10171	platelet count
+10171	erythrocyte measurement
+10171	mean corpuscular volume
+10171	hemoglobin measurement, mean corpuscular hemoglobin
+10171	mean corpuscular hemoglobin
+10180	age at menarche
+10181	high density lipoprotein cholesterol measurement
+10198	schizophrenia
+10204	high density lipoprotein cholesterol measurement
+10228	progressive supranuclear palsy
+10246	body height
+10255	iga glomerulonephritis
+10255	vitiligo
+10257	blood metabolite measurement
+10257	platelet count
+10260	erythrocyte measurement
+10260	hemoglobin measurement, mean corpuscular hemoglobin
+10274	schizophrenia
+10274	rheumatoid arthritis
+10296	type ii diabetes mellitus
+10318	immune system disease
+10318	systemic scleroderma
+10318	systemic lupus erythematosus
+10320	B-cell acute lymphoblastic leukemia
+10320	acute lymphoblastic leukemia
+10320	serum IgG glycosylation measurement
+10320	erythrocyte measurement
+10320	mean corpuscular volume
+10330	body height
+10347	alzheimer's disease
+10351	high density lipoprotein cholesterol measurement
+10363	type ii diabetes mellitus
+10371	eye measurement
+10395	nitric oxide exhalation measurement
+10413	polycystic ovary syndrome
+10418	alzheimer's disease
+10418	brain connectivity measurement
+10428	pulmonary function measurement
+10447	bone density
+10447	body mass index, bone density, diastolic blood pressure, heart rate, systolic blood pressure, waist-hip ratio
+10451	hypothyroidism
+10452	alzheimer's disease
+10452	cognitive decline
+10452	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+10452	c-reactive protein measurement
+10452	lipid measurement
+10452	alzheimer's disease, psychotic symptoms
+10452	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+10452	longevity
+10452	neuroimaging measurement
+10452	low density lipoprotein cholesterol measurement
+10452	total cholesterol measurement
+10460	bladder carcinoma
+10461	cirrhosis of liver, hepatitis C infection
+10464	blood pressure, response to low sodium diet
+10499	qt interval
+10529	venous thromboembolism
+10544	protein c measurement
+10544	anthropometry
+10544	hematological measurement
+10544	coagulation factor measurement
+10552	hormone measurement
+10560	qt interval
+10584	bone density
+10584	osteoporosis
+10599	blood metabolite measurement
+10599	metabolite measurement
+10599	response to methotrexate
+10599	response to antineoplastic agent
+10599	bilirubin measurement
+10599	response to statin
+10611	prostate carcinoma
+10636	nephrolithiasis
+10642	tooth eruption
+10642	odontogenesis
+10643	anthropometry
+10643	body height
+10644	type ii diabetes mellitus
+10665	hepatitis C induced liver cirrhosis
+10665	atopic eczema
+10665	coronary heart disease
+10665	multiple sclerosis
+10665	graves disease
+10665	asthma
+10665	rheumatoid arthritis
+10665	membranous glomerulonephritis
+10665	drug-induced liver injury
+10665	kidney disease
+10665	biliary liver cirrhosis
+10665	chronic childhood arthritis
+10666	rheumatoid arthritis
+10666	inflammatory bowel disease
+10666	mean platelet volume
+10666	autoantibody measurement, type i diabetes mellitus
+10714	colorectal cancer
+10723	hemoglobin measurement, mean corpuscular hemoglobin
+10745	crohn's disease
+10745	hypothyroidism
+10745	type i diabetes mellitus
+10745	rheumatoid arthritis
+10786	urate measurement
+10806	schizophrenia
+10806	bipolar disorder, schizoaffective disorder, schizophrenia
+10846	thyroid stimulating hormone measurement, thyroxine measurement
+10866	HIV-1 infection
+10866	drug-induced liver injury
+10866	aids
+10866	psoriasis
+10877	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+10878	meningococcal infection
+10892	multiple sclerosis
+10903	infant body height
+10903	anthropometry
+10919	chronic hepatitis B infection
+10919	membranous glomerulonephritis
+10948	high density lipoprotein cholesterol measurement
+10954	platelet count
+10979	alzheimer's disease
+10979	prostate carcinoma
+10984	type ii diabetes mellitus
+11001	blood metabolite measurement
+11007	inflammatory bowel disease
+11074	beta-2 microglobulin measurement
+11086	breast carcinoma
+11094	liver enzyme measurement
+11095	optic disc size measurement
+11116	crohn's disease
+11124	type ii diabetes mellitus
+11136	chronic kidney disease
+11140	inflammatory bowel disease
+11173	coronary heart disease
+11174	corneal topography
+11176	platelet count
+11181	serum metabolite measurement
+11188	waist-hip ratio
+11190	body height
+11200	optic disc size measurement
+11200	lung adenocarcinoma, lung carcinoma, squamous cell carcinoma
+11200	esophageal carcinoma, squamous cell carcinoma
+11234	blood metabolite measurement
+11234	metabolite measurement
+11234	serum amyloid a protein measurement
+11262	crohn's disease
+11262	multiple sclerosis
+11262	chronic lymphocytic leukemia
+11264	anthropometry
+11273	inflammatory bowel disease
+11278	age at menarche
+11315	inflammatory bowel disease
+11315	ulcerative colitis
+11321	metabolic syndrome, triglyceride measurement
+22806	biliary liver cirrhosis
+22808	coronary heart disease
+22834	prostate carcinoma
+22834	diastolic blood pressure
+22837	high density lipoprotein cholesterol measurement
+22837	anthropometry, sexual dimorphism
+22837	body mass index, fasting blood insulin measurement
+22853	prostate carcinoma
+22856	corneal topography
+22864	high density lipoprotein cholesterol measurement
+22864	triglyceride measurement
+22864	urate measurement
+22868	episodic memory
+22871	age-related hearing impairment
+22891	mammographic density measurement, mammographic density percentage
+22891	dense area measurement, mammographic density measurement
+22891	narcolepsy
+22891	breast carcinoma
+22891	atopic eczema
+22891	breast carcinoma, breast size
+22891	crohn's disease
+22891	mammographic density measurement
+22901	limb dystonia
+22904	crohn's disease
+22925	membranous glomerulonephritis
+22925	bilirubin measurement
+22930	blood metabolite measurement
+22930	total cholesterol measurement
+22955	anthropometry
+22978	schizophrenia
+22978	blood pressure
+22979	anthropometry
+22979	type i diabetes mellitus
+22997	schizophrenia
+23019	qt interval
+23025	amyotrophic lateral sclerosis
+23042	omega-6 polyunsaturated fatty acid measurement
+23042	blood metabolite measurement
+23042	bone density
+23042	metabolite measurement
+23042	phospholipid measurement
+23042	lipid measurement
+23046	ankylosing spondylitis
+23051	total cholesterol measurement
+23081	age at menarche
+23095	hepatocellular carcinoma
+23095	multiple sclerosis
+23112	uterine fibroid
+23114	drug dependence
+23127	anthropometry
+23161	high density lipoprotein cholesterol measurement
+23165	osteitis deformans
+23166	high density lipoprotein cholesterol measurement
+23187	central nervous system cancer
+23189	fasting blood glucose measurement
+23211	body mass index
+23228	myocardial infarction
+23228	rheumatoid arthritis
+23245	migraine disorder
+23250	interstitial lung disease
+23252	ulcerative colitis
+23263	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+23272	body height
+23274	multiple sclerosis
+23274	autoantibody measurement, type i diabetes mellitus
+23274	biliary liver cirrhosis
+23274	type i diabetes mellitus
+23293	esophageal carcinoma, squamous cell carcinoma
+23293	bone density
+23293	coronary heart disease
+23293	aortic root size
+23293	schizophrenia
+23294	anthropometry
+23301	low density lipoprotein cholesterol measurement
+23301	prostate carcinoma
+23308	celiac disease
+23314	age at menarche
+23314	schizophrenia
+23316	type i diabetes mellitus
+23317	low density lipoprotein cholesterol measurement
+23317	high density lipoprotein cholesterol measurement
+23322	vitiligo
+23338	age at menarche
+23345	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+23358	lipid measurement
+23373	age at menarche
+23373	Barrett's esophagus, Esophageal adenocarcinoma, digestive system disease
+23382	response to fenofibrate
+23387	high density lipoprotein cholesterol measurement
+23387	triglyceride measurement
+23387	iron biomarker measurement
+23400	body height
+23414	platelet count
+23414	vascular endothelial growth factor measurement
+23418	asthma
+23429	body height
+23492	multiple myeloma
+23495	multiple myeloma
+23495	albumin:globulin ratio measurement
+23495	total blood protein measurement
+23495	serum IgG measurement
+23495	serum non-albumin protein measurement
+23495	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+23498	hypospadias
+23534	rheumatoid arthritis
+23534	systemic lupus erythematosus
+23534	systemic scleroderma
+23534	biliary liver cirrhosis
+23534	systemic lupus erythematosus, systemic scleroderma
+23545	adiponectin measurement
+23555	age-related hearing impairment
+23562	bone density
+23562	kidney stone
+23569	rheumatoid arthritis
+23576	asymmetrical dimethylarginine measurement
+23576	serum dimethylarginine measurement
+23576	asymmetrical dimethylarginine measurement, serum dimethylarginine measurement
+23585	blood sedimentation
+23607	alzheimer's disease
+23644	metabolic syndrome
+23660	blood metabolite measurement
+23660	hormone measurement
+23705	age at menarche
+23731	age at menarche
+23788	body mass index
+25780	systemic lupus erythematosus
+25790	bilirubin measurement
+25793	erythrocyte measurement
+25797	schizophrenia
+25817	pancreatic carcinoma
+25825	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+25865	type i diabetes mellitus
+25865	chronic lymphocytic leukemia
+25893	arachidonic acid measurement, docosapentaenoic acid measurement, fatty acid measurement, linoleic acid measurement, linolenic acid measurement
+25893	erythrocyte measurement
+25893	platelet count
+25902	alzheimer's disease
+25903	qt interval
+25943	chronic hepatitis C infection
+25970	anthropometry
+25970	body mass index
+25970	body weight
+25976	ovarian carcinoma
+26011	bipolar disorder
+26052	body height
+26052	anthropometry
+26052	bone density
+26052	mean platelet volume
+26052	platelet count
+26052	waist-hip ratio
+26086	type ii diabetes mellitus
+26090	alkaline phosphatase measurement
+26146	eye measurement
+26147	rheumatoid arthritis
+26147	immune system disease
+26166	basal cell carcinoma
+26220	blood metabolite measurement
+26220	metabolite measurement
+26227	insulin sensitivity measurement
+26227	metabolite measurement
+26251	response to opiate
+26476	alkaline phosphatase measurement, atrial natriuretic factor measurement, bilirubin measurement, c-reactive protein measurement, ccl2 measurement, cd40 ligand measurement, serum alanine aminotransferase measurement, tumor necrosis factor-alpha measurement, vitamin D measurement, vitamin K measurement
+26575	prostate carcinoma
+26585	hypospadias
+26585	colorectal cancer
+26608	high density lipoprotein cholesterol measurement
+26608	triglyceride measurement
+27120	multiple sclerosis
+27165	blood metabolite measurement
+27165	metabolite measurement
+27241	isolated scaphocephaly
+27257	schizophrenia
+27324	breast carcinoma
+27332	body height
+28234	bilirubin measurement
+28964	body height
+28969	alzheimer's disease
+29072	high density lipoprotein cholesterol measurement
+29086	breast carcinoma
+29086	ovarian carcinoma
+29116	low density lipoprotein cholesterol measurement
+29116	total cholesterol measurement
+29842	Behcet's disease
+29850	qt interval
+29851	celiac disease
+29881	total cholesterol measurement
+29881	low density lipoprotein cholesterol measurement
+29922	venous thromboembolism
+29922	qt interval
+29951	CCL4 measurement, adiponectin measurement, alkaline phosphatase measurement, alpha globulin measurement, alpha macroglobulin measurement, apolipoprotein a 1 measurement, aspartate aminotransferase measurement, c-reactive protein measurement, ccl2 measurement, ferritin measurement, fibrinogen measurement, fructose-bisphosphate aldolase measurement, glycoprotein measurement, hemoglobin measurement, hormone measurement, insulin like growth factor measurement, insulin measurement, interleukin 1 receptor antagonist measurement, interleukin 10 measurement, interleukin 12 measurement, interleukin 18 measurement, interleukin-1 beta measurement, interleukin-6 measurement, interleukin-6 receptor measurement, interleukin-8 measurement, l lactate dehydrogenase measurement, leptin measurement, myoglobin measurement, parathyroid hormone measurement, resistin measurement, serum albumin measurement, serum gamma-glutamyl transferase measurement, sex hormone globulin binding measurement, soluble transferrin receptor measurement, thyroid stimulating hormone measurement, transforming growth factor beta measurement, tumor necrosis factor-alpha measurement
+29958	selenium measurement
+29958	blood metabolite measurement
+29958	serum selenium measurement
+29958	insulin sensitivity measurement
+29974	urate measurement
+29984	body height
+29994	sudden cardiac arrest
+30820	age-related hearing impairment
+30845	platelet count
+30845	mean platelet volume
+49855	blood metabolite measurement
+50507	homocysteine measurement
+50650	platelet count
+50650	mean platelet volume
+51085	coffee consumption, cups of coffee per day measurement
+51085	metabolic syndrome
+51085	lipid measurement
+51085	serum gamma-glutamyl transferase measurement
+51085	triglyceride measurement
+51111	serum IgG glycosylation measurement
+51151	eye color
+51151	hair color
+51151	suntan
+51151	skin pigmentation
+51174	inflammatory bowel disease
+51176	chronic lymphocytic leukemia
+51196	optic disc size measurement
+51196	esophageal squamous cell carcinoma
+51196	dengue hemorrhagic fever
+51196	systolic blood pressure
+51196	hypertension
+51196	blood pressure
+51196	esophageal carcinoma
+51196	esophageal carcinoma, gastric carcinoma
+51206	platelet aggregation
+51214	autoantibody measurement, type i diabetes mellitus
+51214	type i diabetes mellitus
+51232	body height
+51272	platelet count
+51272	uterine fibroid
+51272	mean platelet volume
+51277	body height
+51281	mean platelet volume
+51300	biliary liver cirrhosis
+51300	multiple sclerosis
+51305	age at menarche
+51314	bone density
+51319	anthropometry
+51320	cytokine measurement, response to vaccine
+51384	bone density
+51384	cortical thickness
+51422	urate measurement
+51422	erythrocyte measurement
+51422	chronic kidney disease
+51422	hemoglobin measurement
+51422	hematocrit
+51514	body height
+51530	coronary heart disease
+51530	coronary heart disease, large artery stroke
+51530	coronary heart disease, stroke
+51552	cytokine measurement, response to vaccine
+51555	blood metabolite measurement
+51564	inflammatory bowel disease
+51654	hair color
+51720	age at menopause
+51720	age at menarche, age at menopause
+51725	aging
+51752	ankylosing spondylitis
+51752	Behcet's disease
+51752	psoriasis
+51780	age at menarche
+53335	fetal hemoglobin measurement, sickle cell anemia
+53335	hemoglobin A2 measurement, sickle cell anemia
+53335	hemoglobin E disease
+53335	fetal hemoglobin measurement
+53347	rheumatoid arthritis
+53347	vitiligo
+53347	type i diabetes mellitus
+53353	age at menarche
+53353	aging
+53919	body height
+53942	cytokine measurement, response to vaccine
+54014	age at menarche
+54014	venous thromboembolism
+54097	cancer biomarker measurement
+54209	alzheimer's disease
+54209	c-reactive protein measurement
+54361	bone density
+54361	endometriosis
+54414	serum metabolite measurement
+54472	idiopathic pulmonary fibrosis
+54499	intraocular pressure measurement
+54535	ulcerative colitis
+54543	fibrinogen measurement
+54546	ulcerative colitis
+54620	psoriasis
+54622	type ii diabetes mellitus
+54622	high density lipoprotein cholesterol measurement
+54662	blood metabolite measurement
+54715	refractive error
+54716	blood metabolite measurement
+54716	metabolite measurement
+54749	dupuytren contracture
+54790	body height
+54796	freckles
+54798	fibrinogen measurement
+54798	bilirubin measurement
+54805	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+54805	coronary heart disease
+54805	brain aneurysm
+54806	multiple sclerosis
+54808	body height
+54808	anthropometry
+54814	body mass index
+54828	alzheimer's disease
+54828	blood urea nitrogen measurement, renal system measurement
+54828	renal system measurement
+54828	chronic kidney disease
+54847	prostate carcinoma
+54854	serum carcinoembryonic antigen measurement
+54887	systemic lupus erythematosus
+54897	hypertension
+54897	systolic blood pressure
+54897	blood pressure
+54898	arachidonic acid measurement, docosapentaenoic acid measurement, fatty acid measurement, linoleic acid measurement, linolenic acid measurement
+54898	coronary artery calcification
+54898	phospholipid measurement
+54898	metabolite measurement
+54899	systemic lupus erythematosus, systemic scleroderma
+54899	systemic lupus erythematosus
+54901	type ii diabetes mellitus
+54901	fasting blood glucose measurement
+54901	body mass index
+54901	birth weight
+54901	inflammatory bowel disease
+54901	a1c measurement
+54901	gestational diabetes
+54901	autoantibody measurement, type ii diabetes mellitus
+54901	crohn's disease
+54922	urinary metabolite measurement
+54922	eye measurement
+54933	age at menopause
+54957	coronary artery calcification
+54957	low density lipoprotein cholesterol measurement
+54957	total cholesterol measurement
+54957	haptoglobin measurement
+54973	inflammatory bowel disease
+54984	triglyceride measurement
+54986	blood pressure
+54986	multiple myeloma
+54986	diastolic blood pressure
+54988	blood metabolite measurement
+55013	age-related macular degeneration
+55024	crohn's disease
+55024	systemic lupus erythematosus
+55027	esophageal carcinoma, squamous cell carcinoma
+55054	crohn's disease
+55063	blood metabolite measurement
+55063	alzheimer's disease
+55069	corneal topography
+55070	age at menarche
+55094	bone quantitative ultrasound measurement
+55094	velocity of sound measurement
+55094	bone density
+55101	body height
+55114	blood metabolite measurement
+55133	glaucoma
+55159	testicular carcinoma
+55181	myeloperoxidase measurement
+55191	vitamin D deficiency
+55191	vitamin D measurement
+55193	adiponectin measurement
+55193	mood disorder
+55193	osteoarthritis
+55206	infant head circumference
+55206	body height
+55206	high density lipoprotein cholesterol measurement
+55219	low density lipoprotein cholesterol measurement
+55219	total cholesterol measurement
+55219	blood sedimentation
+55222	brain connectivity measurement
+55245	body height
+55245	venous thromboembolism
+55275	prostate carcinoma
+55289	rheumatoid arthritis
+55289	chronic lymphocytic leukemia
+55289	erythrocyte measurement
+55291	bone density
+55297	ossification of the posterior longitudinal ligament of the spine
+55297	anthropometry
+55297	body height
+55351	coronary heart disease
+55384	type i diabetes mellitus
+55423	type i diabetes mellitus
+55504	nasopharyngeal neoplasm
+55534	congenital heart malformation
+55553	diastolic blood pressure
+55553	systolic blood pressure
+55553	blood pressure
+55600	crohn's disease
+55604	mean platelet volume
+55604	platelet count
+55604	uric acid measurement
+55616	total cholesterol measurement
+55662	phospholipid measurement
+55666	eye color
+55690	obesity
+55691	alzheimer's disease
+55692	mean corpuscular volume
+55692	mean corpuscular hemoglobin
+55692	erythrocyte count, hematocrit, hemoglobin measurement, leukocyte count
+55711	mean platelet volume
+55714	plasma renin activity measurement
+55729	testicular carcinoma
+55729	prostate specific antigen measurement
+55733	schizophrenia
+55741	partial thromboplastin time
+55741	protein c measurement
+55755	rheumatoid arthritis
+55759	coronary heart disease, stroke
+55759	coronary heart disease
+55763	cervical carcinoma
+55765	inflammatory bowel disease
+55765	multiple sclerosis
+55765	ulcerative colitis
+55770	optic disc size measurement
+55803	body height
+55867	urate measurement
+55867	uric acid measurement
+55876	childhood onset asthma
+55876	allergy
+55876	asthma
+55876	type i diabetes mellitus
+55892	chronic lymphocytic leukemia
+55892	bladder carcinoma
+55892	multiple myeloma
+55892	telomere length
+55908	high density lipoprotein cholesterol measurement
+56033	Barrett's esophagus, Esophageal adenocarcinoma, digestive system disease
+56034	body mass index, fasting blood insulin measurement
+56155	ferritin measurement, iron biomarker measurement
+56155	tooth eruption
+56241	amyotrophic lateral sclerosis
+56244	rheumatoid arthritis
+56244	multiple sclerosis
+56244	complement C3 measurement, complement C4 measurement
+56244	sarcoidosis
+56244	lung adenocarcinoma
+56244	membranous glomerulonephritis
+56244	crohn's disease
+56244	vitiligo
+56244	osteoarthritis of the knee
+56261	visual cortical surface area measurement
+56342	narcolepsy
+56479	refractive error
+56606	blood metabolite measurement
+56606	uric acid measurement
+56606	urate measurement
+56606	gout
+56606	renal system measurement, uric acid measurement
+56606	metabolite measurement
+56606	fibrinogen measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum albumin measurement, total cholesterol measurement, triglyceride measurement, uric acid measurement
+56776	bone density
+56896	body mass index, fasting blood glucose measurement
+56916	age at menarche
+56922	parkinson's disease
+56922	blood metabolite measurement
+56924	schizophrenia
+56946	eosinophilic esophagitis
+56952	post-traumatic stress disorder
+56957	schizophrenia
+56981	vital capacity
+56981	thyroid stimulating hormone measurement, thyroxine measurement
+56995	body height
+56996	resting heart rate
+57035	blood sedimentation
+57101	panic disorder
+57102	phosphorus measurement
+57111	parkinson's disease
+57117	pulmonary function measurement
+57178	type ii diabetes mellitus
+57178	anthropometry
+57178	breast carcinoma
+57178	inflammatory bowel disease
+57178	crohn's disease, psoriasis
+57178	multiple sclerosis
+57178	crohn's disease
+57178	body height
+57178	celiac disease
+57188	body height
+57188	schizophrenia
+57188	anthropometry
+57205	sphingolipid measurement
+57211	body height
+57211	scoliosis
+57211	anthropometry
+57211	pulmonary function measurement
+57451	age at menarche
+57453	triglyceride measurement
+57476	schizophrenia
+57476	chronic lymphocytic leukemia
+57476	neoplasm of mature b-cells
+57480	blood pressure
+57493	age-related hearing impairment
+57497	gastric carcinoma, lung carcinoma, squamous cell carcinoma
+57511	age at menarche
+57514	celiac disease
+57523	low density lipoprotein cholesterol measurement
+57531	neuroblastoma
+57537	igfbp-3 measurement
+57551	mean platelet volume
+57551	platelet count
+57553	serum gamma-glutamyl transferase measurement
+57568	parkinson's disease
+57572	high density lipoprotein cholesterol measurement
+57591	breast carcinoma
+57608	coronary heart disease
+57619	glomerular filtration rate
+57619	renal system measurement
+57619	magnesium measurement
+57619	chronic kidney disease
+57619	serum creatinine measurement
+57619	chronic kidney disease, renal system measurement
+57623	hypertension
+57623	body height
+57644	hematological measurement
+57661	systemic lupus erythematosus
+57678	low density lipoprotein cholesterol measurement
+57678	total cholesterol measurement
+57698	cleft lip
+57705	rheumatoid arthritis
+57705	systemic lupus erythematosus
+57706	pathological myopia
+57706	polycystic ovary syndrome
+57719	rheumatoid arthritis
+57727	multiple sclerosis
+57794	triglyceride measurement
+57794	low density lipoprotein cholesterol measurement
+57794	total cholesterol measurement
+57818	a1c measurement
+57818	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+57818	coronary artery calcification
+57818	body mass index, fasting blood glucose measurement
+57818	metabolic syndrome
+57818	metabolite measurement
+57818	fasting blood glucose measurement
+57818	glucose measurement, inflammatory response, insulin measurement, triglyceride measurement
+57863	blood sedimentation, c-reactive protein measurement, ccl2 measurement, interleukin-6 measurement
+58477	alcohol drinking
+58477	iron biomarker measurement
+58504	diabetic retinopathy
+58513	leukocyte count
+60468	serum IgG glycosylation measurement
+60468	inflammatory bowel disease
+60468	crohn's disease
+60468	celiac disease
+60468	type i diabetes mellitus
+60490	serum zinc measurement
+60526	low density lipoprotein cholesterol measurement
+60676	body height
+60676	venous thromboembolism
+60678	age at menarche
+60678	hypospadias
+60678	prostate carcinoma
+60685	type ii diabetes mellitus
+63027	crohn's disease
+63826	type ii diabetes mellitus
+63826	schizophrenia
+63891	self reported educational attainment
+63892	age-related hearing impairment
+63892	inflammatory bowel disease
+63892	polycystic ovary syndrome
+63892	platelet count
+63892	crohn's disease
+63892	type ii diabetes mellitus
+63895	venous thromboembolism
+63935	high density lipoprotein cholesterol measurement
+63935	triglyceride measurement
+63976	QRS duration
+63976	migraine disorder
+64093	bone density
+64093	digit length ratio
+64093	erythrocyte measurement
+64116	high density lipoprotein cholesterol measurement
+64116	diastolic blood pressure
+64116	systolic blood pressure
+64116	blood pressure
+64116	body mass index
+64127	crohn's disease
+64127	inflammatory bowel disease
+64135	autoantibody measurement, type i diabetes mellitus
+64135	protein measurement
+64135	type i diabetes mellitus
+64167	inflammatory bowel disease
+64167	crohn's disease
+64170	inflammatory bowel disease
+64170	ulcerative colitis
+64170	crohn's disease
+64231	fibrinogen measurement
+64231	alzheimer's disease
+64241	total cholesterol measurement
+64241	low density lipoprotein cholesterol measurement
+64241	lipid measurement
+64241	phytosterol measurement
+64241	gallstones
+64374	age-related hearing impairment
+64375	vitiligo
+64375	autoantibody measurement, type i diabetes mellitus
+64375	asthma
+64375	type i diabetes mellitus
+64399	infant body height
+64399	body height
+64399	anthropometry
+64428	body height
+64478	age at menarche
+64641	prostate carcinoma
+64757	total cholesterol measurement
+64757	low density lipoprotein cholesterol measurement
+64759	prostate carcinoma
+64768	body height
+64771	anthropometry
+64771	body height
+64778	body height
+64778	heart rate
+64778	anthropometry
+64778	corneal topography
+64784	inflammatory bowel disease
+64838	age at menopause
+64849	glomerular filtration rate
+64849	chronic kidney disease
+64897	liver enzyme measurement
+64902	symmetrical dimethylarginine measurement
+64902	urinary metabolite measurement
+64902	serum dimethylarginine measurement
+64902	metabolite measurement
+64919	schizophrenia
+65084	velocity of sound measurement
+65084	bone quantitative ultrasound measurement
+65975	body mass index
+65992	chronic hepatitis C infection
+78995	bone density
+79001	response to anticoagulant
+79007	suntan
+79016	rheumatoid arthritis
+79027	blood metabolite measurement
+79029	chronic kidney disease, renal system measurement
+79054	migraine disorder
+79054	migraine without aura
+79068	age at menarche
+79068	height-adjusted body mass index
+79068	body mass index
+79068	type ii diabetes mellitus
+79068	high density lipoprotein cholesterol measurement
+79068	energy intake
+79068	obesity
+79068	anthropometry
+79068	breast carcinoma
+79068	melanoma
+79068	metabolic syndrome
+79068	waist circumference
+79068	body weight
+79096	acne
+79142	metabolite measurement
+79172	anthropometry
+79258	celiac disease
+79603	very long-chain saturated fatty acid measurement
+79648	leukopenia
+79672	a1c measurement
+79698	refractive error
+79705	corneal topography
+79710	pancreatitis
+79722	rheumatoid arthritis
+79722	crohn's disease
+79728	bipolar disorder
+79747	leprosy
+79774	mean platelet volume
+79777	body height
+79782	central nervous system cancer
+79783	migraine disorder
+79823	body height
+79840	body height
+79874	anthropometry
+79875	fev/fec ratio, forced expiratory volume, pulmonary function measurement, vital capacity
+79875	pulmonary function measurement
+79890	bone density
+79890	chronic obstructive pulmonary disease
+79890	osteitis deformans
+79915	anthropometry
+79915	body height
+79932	systemic lupus erythematosus, systemic scleroderma
+79934	mucocutaneous lymph node syndrome
+79970	multiple sclerosis
+79974	bone density
+79991	telomere length
+80018	type i diabetes mellitus
+80128	urate measurement
+80129	velocity of sound measurement
+80129	bone density
+80129	breast carcinoma
+80150	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+80195	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+80205	fibrinogen measurement
+80303	serum gamma-glutamyl transferase measurement
+80307	total cholesterol measurement
+80315	crohn's disease
+80315	waist-hip ratio
+80317	pulmonary function measurement
+80326	astigmatism, braces, circadian rhythm, external ear, foot, hair morphology, personality, sensory perception of smell, sensory perception of taste, sneezing
+80339	cirrhosis of liver, non-alcoholic fatty liver disease
+80339	non-alcoholic fatty liver disease
+80339	serum alanine aminotransferase measurement
+80339	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+80339	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+80339	liver enzyme measurement
+80350	coronary heart disease
+80381	serum gamma-glutamyl transferase measurement
+80724	coronary heart disease
+80724	mean platelet volume
+80724	esophageal carcinoma
+80736	vitiligo
+80762	inflammatory bowel disease
+80777	blood pressure, cigarettes per day measurement, diastolic blood pressure, pack-years measurement, smoking behavior, smoking behaviour measurement, smoking status measurement, systolic blood pressure
+80790	adiponectin measurement
+80790	high density lipoprotein cholesterol measurement
+80862	lipid measurement
+80862	graves disease
+80864	membranous glomerulonephritis
+80864	phospholipid measurement
+81037	pancreatic carcinoma
+81037	basal cell carcinoma
+81037	bladder carcinoma
+81037	prostate specific antigen measurement
+81037	lung adenocarcinoma
+81037	lung carcinoma
+81494	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+81501	osteitis deformans
+81550	age at menopause
+81562	bipolar disorder
+81603	prostate carcinoma
+81619	inflammatory bowel disease
+81671	lipoprotein-associated phospholipase a(2) measurement
+81696	Barrett's esophagus
+81704	mean platelet volume
+81793	anti-Heliobacter pylori serum IgG measurement
+81858	blood metabolite measurement
+81928	colorectal cancer
+83468	corneal topography
+83478	PR segment
+83478	pr interval
+83478	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+83851	hepatitis
+83875	interleukin 1 receptor antagonist measurement, interleukin-1 beta measurement
+83875	interleukin 18 measurement
+83875	CCL4 measurement, adiponectin measurement, alkaline phosphatase measurement, alpha globulin measurement, alpha macroglobulin measurement, apolipoprotein a 1 measurement, aspartate aminotransferase measurement, c-reactive protein measurement, ccl2 measurement, ferritin measurement, fibrinogen measurement, fructose-bisphosphate aldolase measurement, glycoprotein measurement, hemoglobin measurement, hormone measurement, insulin like growth factor measurement, insulin measurement, interleukin 1 receptor antagonist measurement, interleukin 10 measurement, interleukin 12 measurement, interleukin 18 measurement, interleukin-1 beta measurement, interleukin-6 measurement, interleukin-6 receptor measurement, interleukin-8 measurement, l lactate dehydrogenase measurement, leptin measurement, myoglobin measurement, parathyroid hormone measurement, resistin measurement, serum albumin measurement, serum gamma-glutamyl transferase measurement, sex hormone globulin binding measurement, soluble transferrin receptor measurement, thyroid stimulating hormone measurement, transforming growth factor beta measurement, tumor necrosis factor-alpha measurement
+83892	high density lipoprotein cholesterol measurement
+83938	pulmonary function measurement
+83943	schizophrenia
+83986	erythrocyte indices
+83986	erythrocyte count, hematocrit, hemoglobin measurement, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, mean corpuscular volume, red blood cell distribution width
+83986	mean corpuscular hemoglobin
+83986	mean corpuscular volume
+83990	ovarian carcinoma
+84071	prostate carcinoma
+84071	pulmonary function measurement
+84079	eosinophilic esophagitis
+84133	waist-hip ratio
+84134	blood metabolite measurement
+84159	acute lymphoblastic leukemia
+84159	rheumatoid arthritis
+84159	B-cell acute lymphoblastic leukemia
+84159	corneal topography
+84159	systemic lupus erythematosus
+84162	celiac disease
+84162	inflammatory bowel disease
+84162	type i diabetes mellitus
+84224	alkaline phosphatase measurement
+84224	vitamin measurement
+84224	vitamin B measurement, vitamin B12 measurement, vitamin B6 measurement
+84226	metabolic syndrome, triglyceride measurement
+84286	parkinson's disease
+84310	total cholesterol measurement
+84319	axial length measurement
+84439	coronary heart disease
+84441	body height
+84441	sudden cardiac arrest
+84444	anthropometry
+84444	osteoarthritis
+84444	body height
+84446	age at menarche, age at menopause
+84446	age at menopause
+84450	phospholipid measurement
+84450	metabolic syndrome, triglyceride measurement
+84456	body height
+84456	anthropometry
+84515	age at menopause
+84515	age at menarche, age at menopause
+84546	serum albumin measurement
+84546	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+84619	prostate carcinoma
+84619	inflammatory bowel disease
+84619	crohn's disease
+84639	interleukin 1 receptor antagonist measurement, interleukin-1 beta measurement
+84660	parkinson's disease
+84690	pathological myopia
+84700	mathematical ability
+84722	coronary heart disease, large artery stroke
+84722	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+84722	coronary heart disease
+84722	lipoprotein-associated phospholipase a(2) measurement
+84722	low density lipoprotein cholesterol measurement
+84747	metabolite measurement
+84795	blood metabolite measurement
+84795	urinary metabolite measurement
+84795	metabolite measurement
+84811	blood metabolite measurement
+84811	high density lipoprotein cholesterol measurement, triglyceride measurement
+84811	metabolic syndrome
+84811	metabolic syndrome, triglyceride measurement
+84811	blood pressure, triglyceride measurement
+84811	triglyceride measurement
+84870	velocity of sound measurement
+84870	bone quantitative ultrasound measurement
+84870	anthropometry
+84870	crohn's disease
+84870	waist-hip ratio
+84888	fibrinogen measurement
+84894	essential tremor
+84902	serum creatinine measurement
+84905	body height
+84909	polycystic ovary syndrome
+84909	atrial fibrillation
+84978	triglyceride measurement
+84981	serum albumin measurement
+85313	rheumatoid arthritis
+85414	prostate specific antigen measurement
+85415	colorectal cancer
+85440	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+85440	triglyceride measurement
+85440	low density lipoprotein cholesterol measurement
+85440	total cholesterol measurement
+85440	coronary artery calcification
+85440	lipid measurement
+85449	heart rate
+85461	prostate carcinoma, response to radiation
+85480	eosinophilic esophagitis
+89122	metabolite measurement
+89122	hormone measurement
+89795	pathological myopia
+89797	hepatitis
+90134	psoriasis
+90139	schizophrenia
+90355	rheumatoid arthritis
+90488	bone density
+90523	serum gamma-glutamyl transferase measurement
+90627	brain aneurysm
+90865	childhood onset asthma
+91039	interstitial lung disease
+91074	acylcarnitine measurement, carbohydrate measurement, lipid measurement, lysine measurement, phenylalanine measurement, phospholipid measurement, serotonin measurement, sphingolipid measurement, tyrosine measurement
+91107	brain measurement
+91543	venous thromboembolism
+91584	venous thromboembolism
+91752	schizophrenia
+91768	body height
+91768	anthropometry
+91768	platelet count
+91828	platelet count
+91828	mean platelet volume
+91828	serum gamma-glutamyl transferase measurement
+91869	anthropometry
+91869	cytokine measurement, response to vaccine
+91937	triglyceride measurement
+91937	low density lipoprotein cholesterol measurement
+91937	total cholesterol measurement
+91975	inflammatory bowel disease
+92002	type ii diabetes mellitus
+92162	body height
+92421	ovarian carcinoma
+92737	pulmonary function measurement
+92912	urate measurement
+92912	chronic kidney disease
+93145	age at menarche
+93166	mammographic density measurement, mammographic density percentage
+93166	QRS duration
+93664	age at menarche
+93979	age-related hearing impairment
+94039	sphingolipid measurement
+94039	total cholesterol measurement
+94101	ferritin measurement
+94241	type ii diabetes mellitus
+112817	metabolite measurement
+113510	age at menopause
+114294	blood metabolite measurement
+114294	metabolite measurement
+114548	fibrinogen measurement
+114548	c-reactive protein measurement
+114781	restless legs syndrome
+114786	thyroid stimulating hormone measurement
+114800	age at menarche
+114801	age-related hearing impairment
+114836	graves disease
+114904	graves disease
+114904	vitiligo
+114905	conduct disorder
+115352	graves disease
+115352	autoantibody measurement, type i diabetes mellitus
+116085	urate measurement
+116085	uric acid measurement
+116143	cytokine measurement, response to vaccine
+116461	body height
+116519	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+116519	lipid measurement
+116519	triglyceride measurement
+116519	metabolic syndrome, triglyceride measurement
+116519	metabolic syndrome
+116519	high density lipoprotein cholesterol measurement, triglyceride measurement
+116985	body mass index, fasting blood glucose measurement
+116985	insulin measurement
+116985	type ii diabetes mellitus
+116986	multiple sclerosis
+117145	blood metabolite measurement
+117145	serum metabolite measurement
+117157	qt interval
+117247	blood metabolite measurement
+117283	phosphorus measurement
+117289	multiple sclerosis
+117289	celiac disease
+117583	aids
+119180	dental caries
+120227	vitamin D deficiency
+120227	vitamin D measurement
+120376	colorectal cancer
+120400	ulcerative colitis
+120892	parkinson's disease
+120935	pulmonary function measurement
+121260	systemic lupus erythematosus
+121340	bone density
+122618	rheumatoid arthritis
+123041	alzheimer's disease
+123688	emphysema pattern measurement
+123688	pulmonary function measurement
+123688	lung carcinoma
+123688	chronic obstructive pulmonary disease
+123876	blood metabolite measurement
+124359	breast carcinoma
+124460	leprosy
+124989	low density lipoprotein cholesterol measurement
+124997	serum albumin measurement
+126637	astigmatism, braces, circadian rhythm, external ear, foot, hair morphology, personality, sensory perception of smell, sensory perception of taste, sneezing
+126789	inflammatory bowel disease
+127665	high density lipoprotein cholesterol measurement
+128338	serum gamma-glutamyl transferase measurement
+128368	erythrocyte measurement
+128611	inflammatory bowel disease
+128611	systolic blood pressure
+128611	hypertension
+128611	diastolic blood pressure
+128611	blood pressure
+128869	melanoma
+129080	breast carcinoma
+129563	body height
+130013	blood metabolite measurement
+130540	esophageal squamous cell carcinoma
+130540	rheumatoid arthritis
+130540	melanoma
+130951	age-related hearing impairment
+133482	schizophrenia
+133688	blood metabolite measurement
+134359	anthropometry
+134359	body mass index
+134957	tissue plasminogen activator measurement
+134957	coagulation factor measurement
+135656	membranous glomerulonephritis
+137872	blood metabolite measurement
+139189	hypospadias
+139189	familial hypospadias
+139716	type i diabetes mellitus
+140733	hypertension
+140803	magnesium measurement
+140828	body mass index, fasting blood glucose measurement
+143098	bone density
+143187	colorectal cancer
+143187	lung carcinoma
+143872	systolic blood pressure
+143872	diastolic blood pressure
+143872	hypertension
+143872	blood pressure
+144100	glaucoma
+144100	systolic blood pressure
+144108	total cholesterol measurement
+144402	heart rate
+144406	blood metabolite measurement
+144406	mean platelet volume
+144406	platelet count
+144406	metabolite measurement
+144811	crohn's disease
+144811	leprosy
+145957	erythrocyte measurement
+147081	parkinson's disease
+147727	body height
+147798	blood metabolite measurement
+148345	androgenetic alopecia
+148823	platelet count
+148867	multiple sclerosis
+149233	Vogt-Koyanagi-Harada disease
+149233	crohn's disease
+149233	inflammatory bowel disease
+149233	ankylosing spondylitis
+149233	ulcerative colitis
+149628	asthma
+149775	DNA methylation
+150223	immune system disease
+150280	inflammatory bowel disease
+150280	kidney disease
+150577	rheumatoid arthritis
+150864	total cholesterol measurement
+150962	inflammatory bowel disease
+150962	crohn's disease
+150962	celiac disease, crohn's disease
+150962	ulcerative colitis
+150962	celiac disease
+151126	sudden cardiac arrest
+151827	telomere length
+151827	interstitial lung disease
+152110	breast carcinoma
+152330	schizophrenia
+152330	brain connectivity measurement
+152485	cytokine measurement, response to vaccine
+152485	serum gamma-glutamyl transferase measurement
+153090	abdominal aortic aneurysm
+153129	body height
+154092	urate measurement
+157273	high density lipoprotein cholesterol measurement
+157273	total cholesterol measurement
+157273	low density lipoprotein cholesterol measurement
+157273	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+157273	coronary artery calcification
+157273	body mass index, fasting blood insulin measurement
+157273	body mass index, fasting blood glucose measurement
+157273	c-reactive protein measurement
+158038	anthropometry
+158038	body mass index
+158219	high density lipoprotein cholesterol measurement
+158219	total cholesterol measurement
+158399	age at menarche
+159296	crohn's disease
+160140	response to metformin
+160762	drinking behavior
+160762	alcohol drinking
+160851	nephrolithiasis
+161145	parkinson's disease
+161145	phospholipid measurement
+161514	exfoliation syndrome
+162515	type ii diabetes mellitus
+162517	blood metabolite measurement
+162966	phospholipid measurement
+163486	inflammatory bowel disease
+163486	crohn's disease
+163720	blood metabolite measurement
+164656	iron biomarker measurement, serum iron measurement
+164656	ferritin measurement, iron biomarker measurement
+164656	iron biomarker measurement, transferrin measurement
+164656	iron biomarker measurement, transferrin saturation measurement
+164656	mean corpuscular volume
+164656	mean corpuscular hemoglobin
+164656	erythrocyte measurement
+164656	serum hepcidin measurement
+164656	iron biomarker measurement
+164656	erythrocyte count, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, mean corpuscular volume
+164656	a1c measurement
+164656	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+164656	hemoglobin measurement, mean corpuscular hemoglobin
+164656	hematocrit
+164656	hemoglobin measurement
+164656	mean corpuscular hemoglobin, mean corpuscular volume, platelet count
+164656	erythrocyte count, leukocyte count, mean corpuscular hemoglobin, mean corpuscular volume, platelet count
+169026	fasting blood glucose measurement
+169026	type ii diabetes mellitus
+169026	body mass index, fasting blood glucose measurement
+169026	insulin measurement
+169026	asthma
+169355	blood metabolite measurement
+169714	body height
+169792	fasting blood glucose measurement
+169792	alzheimer's disease
+169792	type ii diabetes mellitus
+169792	type i diabetes mellitus
+170679	multiple myeloma
+170679	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+170679	Behcet's disease
+170679	systemic scleroderma
+170679	membranous glomerulonephritis
+170691	body height
+170691	anthropometry
+171422	c-reactive protein measurement
+171425	vitamin B12 measurement
+171472	colorectal cancer
+195828	anthropometry
+196475	obesity
+196743	blood metabolite measurement
+196951	thyroid stimulating hormone measurement, thyroxine measurement
+196951	thryoid volume
+199857	phospholipid measurement
+200420	blood metabolite measurement
+200420	glomerular filtration rate
+200420	serum creatinine measurement
+200728	crohn's disease
+200734	rheumatoid arthritis
+201229	nitric oxide exhalation measurement
+201232	type ii diabetes mellitus
+201266	ulcerative colitis
+201292	brain measurement
+203062	schizophrenia
+203228	amyotrophic lateral sclerosis
+204010	type ii diabetes mellitus
+204474	urinary uromodulin measurement
+204474	renal system measurement
+204801	age at menopause
+205717	bone density
+219402	body mass index
+219621	blood pressure
+219621	diastolic blood pressure
+219749	age-related hearing impairment
+219771	ulcerative colitis
+219771	crohn's disease
+219790	rheumatoid arthritis
+219931	hair color
+219983	sensory perception of smell
+220202	optic disc size measurement
+220963	blood metabolite measurement
+220963	urate measurement
+220963	metabolite measurement
+220972	prostate carcinoma
+220972	blood metabolite measurement
+220972	high density lipoprotein cholesterol measurement
+220972	total cholesterol measurement
+220972	erythrocyte measurement
+220972	mean corpuscular volume
+220972	hemoglobin measurement, mean corpuscular hemoglobin
+221037	omega-6 polyunsaturated fatty acid measurement
+221037	triglyceride measurement
+221037	mean platelet volume
+221037	fibrinogen measurement
+221037	sex hormone globulin binding measurement
+221037	platelet count
+221037	liver enzyme measurement
+221037	alkaline phosphatase measurement
+221154	PR segment
+221262	erythrocyte measurement
+221262	mean corpuscular volume
+221692	cervical artery dissection
+221692	coronary heart disease, large artery stroke
+221692	coronary heart disease, stroke
+221692	coronary heart disease
+221692	migraine without aura
+221692	coronary artery calcification
+221692	myocardial infarction
+221711	age-related hearing impairment
+221711	age at menopause
+221711	phospholipid measurement
+221785	blood metabolite measurement
+221895	type ii diabetes mellitus
+221895	rheumatoid arthritis
+221895	anthropometry
+221895	crohn's disease
+221895	body height
+221955	high density lipoprotein cholesterol measurement
+222235	blood pressure, response to cold pressor test
+222256	childhood onset asthma
+222546	prostate carcinoma
+222553	qt interval
+222553	resting heart rate
+222553	cardiovascular measurement
+246778	inflammatory bowel disease
+252983	age at menarche
+252983	breast carcinoma
+253430	inflammatory bowel disease
+253461	body height
+253461	anthropometry
+253559	anthropometry
+253559	body mass index
+253724	coronary heart disease
+253827	odontogenesis
+253827	tooth eruption
+253827	hippocampal volume
+253980	age at menarche
+254100	optic disc size measurement
+254100	body height
+254251	body height
+254251	infant body height
+254251	anthropometry
+254251	birth weight
+254827	venous thromboembolism
+255738	total cholesterol measurement
+255738	low density lipoprotein cholesterol measurement
+255738	response to statin
+256126	erythrocyte measurement
+256126	blood metabolite measurement
+256764	blood urea nitrogen measurement, renal system measurement
+256764	renal system measurement
+256764	chronic kidney disease
+256892	malaria
+259197	complement C3 measurement, complement C4 measurement
+259266	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+266722	diabetic retinopathy
+283078	response to vaccine
+283130	serum dimethylarginine measurement
+283377	coronary artery calcification
+283377	metabolite measurement
+283383	sporadic amyotrophic lateral sclerosis
+283450	diastolic blood pressure
+283450	type ii diabetes mellitus
+283450	drinking behavior
+283450	blood urea nitrogen measurement, renal system measurement
+283450	coronary heart disease
+283450	fasting blood glucose measurement, low density lipoprotein cholesterol measurement, metabolite measurement, serum alanine aminotransferase measurement, serum albumin measurement, uric acid measurement
+283450	serum gamma-glutamyl transferase measurement
+283450	high density lipoprotein cholesterol measurement
+283450	esophageal carcinoma
+283450	blood pressure
+283450	alcohol drinking
+283450	body mass index, bone density, diastolic blood pressure, heart rate, systolic blood pressure, waist-hip ratio
+283463	inflammatory bowel disease
+283463	crohn's disease
+283742	rheumatoid arthritis
+283849	high density lipoprotein cholesterol measurement
+283970	age at menarche
+284001	blood metabolite measurement
+284058	parkinson's disease
+284058	intracranial volume
+284085	sporadic amyotrophic lateral sclerosis
+284110	asthma, seasonal allergic rhinitis
+284110	childhood onset asthma
+284110	leukocyte count
+284110	asthma
+284111	blood metabolite measurement
+284217	type ii diabetes mellitus
+284252	sudden cardiac arrest
+284359	energy intake
+284371	asthma, response to bronchodilator
+284417	age at menopause
+284498	homocysteine measurement
+284546	heart function measurement
+284654	axial length measurement
+285025	heart rate
+285362	age-related hearing impairment
+285441	partial thromboplastin time
+285489	total cholesterol measurement
+285489	triglyceride measurement
+285498	recombination rate
+285600	diabetic retinopathy
+285626	multiple sclerosis
+285626	crohn's disease
+285626	psoriasis
+285830	multiple sclerosis
+285943	hypospadias
+285965	alzheimer's disease
+286016	systemic lupus erythematosus, systemic scleroderma
+286749	polycystic ovary syndrome
+317761	age at menarche
+326624	fibrinogen measurement
+326625	high density lipoprotein cholesterol measurement
+338557	vitamin A measurement
+339400	atopic eczema
+339500	body height
+339559	age-related hearing impairment
+339761	protein c measurement
+339766	bilirubin measurement
+340061	esophageal squamous cell carcinoma
+340260	blood urea nitrogen measurement, renal system measurement
+341359	heart rate
+342541	Alzheimer's disease biomarker measurement, CCL4 measurement, alzheimer's disease, angiotensin-converting enzyme measurement, ccl2 measurement, interleukin-6 measurement, matrix metalloproteinase measurement
+342618	platelet count
+348158	serum metabolite measurement
+348980	schizophrenia
+349160	heart rate
+352961	renal system measurement
+352966	serum IgE measurement
+353238	basal cell carcinoma
+360023	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+360203	periodontitis
+375033	platelet aggregation
+375056	myocardial infarction
+378805	pancreatic carcinoma
+378805	basal cell carcinoma
+387032	schizophrenia
+387103	infant body height
+387103	age at menarche
+387103	type i diabetes mellitus
+387119	qt interval
+387119	QRS duration
+387281	mean corpuscular hemoglobin concentration
+387281	erythrocyte count, hematocrit, hemoglobin measurement, leukocyte count
+387281	blood sedimentation, c-reactive protein measurement, ccl2 measurement, interleukin-6 measurement
+387281	fetal hemoglobin measurement
+387323	body height
+387715	age-related macular degeneration
+388336	refractive error
+388588	serum copper measurement
+388591	qt interval
+388650	body height
+388886	serum gamma-glutamyl transferase measurement
+388886	liver enzyme measurement
+389015	serum ST2 measurement
+389170	bone density
+389421	age at menarche
+389421	age at menarche, age at menopause
+390916	erythrocyte measurement
+390996	ewing sarcoma
+394214	Sjogren syndrome
+394214	cervical carcinoma
+399671	blood metabolite measurement
+399716	rheumatoid arthritis
+399716	type i diabetes mellitus
+399717	hodgkins lymphoma
+399948	colorectal cancer
+400165	a1c measurement
+400499	hepatitis
+400618	serum gamma-glutamyl transferase measurement
+400680	pain
+400757	leprosy
+400765	schizophrenia
+400765	attention deficit hyperactivity disorder, autism spectrum disorder, bipolar disorder, schizophrenia, unipolar depression
+400798	high density lipoprotein cholesterol measurement
+400799	high density lipoprotein cholesterol measurement
+400955	anthropometry
+400957	psoriasis
+400997	chronic lymphocytic leukemia
+401022	ovarian carcinoma
+401036	self reported educational attainment
+401172	coagulation factor measurement, factor VIII measurement, von Willebrand factor measurement
+401237	neuroblastoma
+401388	bone density
+401548	age-related hearing impairment
+401884	parkinson's disease
+403150	inflammatory bowel disease
+404266	obesity
+407004	serum albumin measurement
+407036	age at menarche
+407977	serum IgM measurement
+407977	serum non-albumin protein measurement
+407977	iga glomerulonephritis
+414236	inflammatory bowel disease
+414764	asthma
+440193	breast carcinoma
+440400	blood metabolite measurement
+440836	blood metabolite measurement
+440836	erythrocyte measurement
+440836	mean corpuscular volume
+440854	eosinophilic esophagitis
+441024	cytokine measurement, response to vaccine
+441108	fibrinogen measurement
+441108	inflammatory bowel disease
+441108	crohn's disease
+441250	triglyceride measurement
+441951	body height
+442108	corneal topography
+497258	obesity
+497258	body weight
+497258	body mass index
+497258	age at menarche
+503835	dupuytren contracture
+550643	serum zinc measurement
+553103	anthropometry
+553103	body height
+553103	blood metabolite measurement
+553103	metabolite measurement
+606293	prostate specific antigen measurement
+643680	lipoprotein-associated phospholipase a(2) measurement
+643714	breast carcinoma
+643714	restless legs syndrome
+643749	inflammatory bowel disease
+643749	psoriasis
+643749	psoriatic arthritis
+643909	serum gamma-glutamyl transferase measurement
+645323	eye measurement
+646021	pathological myopia
+646576	body height
+646576	anthropometry
+646702	graves disease
+646736	type ii diabetes mellitus
+646982	inflammatory bowel disease
+646982	ulcerative colitis
+647121	breast carcinoma
+647215	crohn's disease
+652968	rheumatoid arthritis
+652991	age at menarche
+653140	venous thromboembolism
+653677	serum carcinoembryonic antigen measurement
+654841	corneal topography
+677775	crohn's disease
+692229	narcolepsy
+693196	cis/trans-18:2 fatty acid measurement, total trans-18:1 fatty acid measurement, trans fatty acid measurement, trans-16:1n7 fatty acid measurement, trans/cis-18:2 fatty acid measurement, trans/trans-18:2fatty acid measurement
+693196	blood metabolite measurement
+693196	phospholipid measurement
+693221	eye measurement
+723961	autoantibody measurement, type i diabetes mellitus
+723961	type i diabetes mellitus
+724031	fibrinogen measurement
+727677	prostate carcinoma
+727896	asthma, body mass index
+728114	prostate carcinoma
+728215	venous thromboembolism
+728723	type ii diabetes mellitus
+728755	venous thromboembolism
+729177	neuroblastoma
+729582	thyroid carcinoma
+729582	breast carcinoma
+729582	body height
+730091	age-related hearing impairment
+730109	biliary liver cirrhosis
+100048912	brain aneurysm
+100048912	optic disc size measurement
+100048912	basal cell carcinoma
+100048912	coronary artery calcification
+100048912	coronary heart disease
+100048912	glaucoma
+100048912	open-angle glaucoma
+100048912	central nervous system cancer
+100048912	endometriosis
+100048912	myocardial infarction
+100048912	ankle brachial index
+100128590	qt interval
+100128675	serum albumin measurement
+100128977	idiopathic pulmonary fibrosis
+100128977	androgenetic alopecia
+100128977	parkinson's disease
+100129427	blood metabolite measurement
+100129620	pathological myopia
+100129781	age at menarche
+100129781	qt interval
+100129781	puberty onset measurement
+100129940	type ii diabetes mellitus
+100129961	blood metabolite measurement
+100130460	vasoactive peptide measurement
+100130460	systolic blood pressure
+100130889	HIV-1 infection
+100130996	high density lipoprotein cholesterol measurement
+100131089	ewing sarcoma
+100131315	colorectal cancer
+100131730	bone density
+100131814	cytokine measurement, response to vaccine
+100132354	thyroid stimulating hormone measurement, thyroxine measurement
+100132354	vascular endothelial growth factor measurement
+100188947	smoking behavior
+100189005	urate measurement
+100189401	leprosy
+100189401	body height
+100189401	typhoid fever
+100189401	neoplasm of mature b-cells
+100189401	age at menarche
+100189401	inflammatory bowel disease, response to thiopurine, thiopurine immunosuppressant-induced pancreatitis
+100189401	prostate carcinoma
+100189401	laryngeal squamous cell carcinoma
+100189401	antinuclear antibody measurement
+100189401	Vogt-Koyanagi-Harada disease
+100189401	hypospadias
+100189401	type ii diabetes mellitus
+100189401	monocyte count
+100189401	parkinson's disease
+100189401	ossification of the posterior longitudinal ligament of the spine
+100189401	schizophrenia
+100189401	chronic hepatitis C infection, cryoglobulinemia
+100189401	frontotemporal dementia
+100189401	chronic hepatitis B infection
+100189401	age-related hearing impairment
+100189401	hodgkins lymphoma
+100189401	rheumatoid arthritis
+100189401	ulcerative colitis
+100189401	asthma, seasonal allergic rhinitis
+100189401	chronic hepatitis C infection
+100189401	serum IgE measurement
+100189401	response to vaccine
+100189401	bipolar disorder, schizophrenia
+100189401	age at onset, narcolepsy
+100189401	narcolepsy
+100189401	bipolar disorder, schizoaffective disorder, schizophrenia
+100189401	hepatitis B infection
+100189401	alzheimer's disease
+100189401	total cholesterol measurement
+100189401	high density lipoprotein cholesterol measurement
+100189401	triglyceride measurement
+100189401	Sjogren syndrome
+100189401	celiac disease
+100189401	HIV-1 infection
+100189401	crohn's disease
+100189401	homocysteine measurement
+100189401	allergic sensitization measurement
+100189401	cervical carcinoma
+100189401	allergy
+100189401	chronic lymphocytic leukemia
+100189401	anthropometry, sexual dimorphism
+100189401	anthropometry
+100189401	multiple sclerosis, oligoclonal band measurement
+100189401	QRS duration
+100189401	age-related macular degeneration
+100189401	beta-2 microglobulin measurement
+100189401	thyroid stimulating hormone measurement, thyroxine measurement
+100189401	lymphoma
+100189401	Epstein-Barr virus infection, antibody measurement
+100189401	hepatitis C induced liver cirrhosis
+100189401	visceral Leishmaniasis
+100189401	pulmonary function measurement
+100189401	systemic lupus erythematosus
+100189401	urate measurement
+100189401	hepatocellular carcinoma
+100189401	CC16 measurement, c-reactive protein measurement, chronic obstructive pulmonary disease, fibrinogen measurement, interleukin-6 measurement, interleukin-8 measurement, surfactant protein D measurement, tumor necrosis factor-alpha measurement
+100189401	immune system disease
+100189401	atopic eczema
+100189401	complement C3 measurement, complement C4 measurement
+100189401	total blood protein measurement
+100189401	Behcet's disease
+100189401	anti-neutrophil antibody associated vasculitis
+100189401	colorectal cancer
+100189401	bone density
+100189401	mucocutaneous lymph node syndrome
+100189401	coronary heart disease
+100189401	iga glomerulonephritis
+100189401	multiple sclerosis
+100189401	nodular sclerosis Hodgkin lymphoma
+100189401	seasonal allergic rhinitis
+100189401	graves disease
+100189401	hpv seropositivity
+100189401	asthma
+100189401	systemic scleroderma
+100189401	vascular endothelial growth factor measurement
+100189401	leukocyte count
+100189401	crohn's disease, ulcerative colitis
+100189401	esophageal carcinoma
+100189401	drug-induced liver injury
+100189401	response to interferon beta
+100189401	biliary liver cirrhosis
+100189401	kidney disease
+100189401	vitiligo
+100189401	membranous glomerulonephritis
+100189401	heart function measurement
+100189401	psoriasis
+100189401	waist-hip ratio
+100189401	protein measurement
+100189401	neonatal systemic lupus erthematosus
+100189401	alopecia areata
+100189401	nasopharyngeal neoplasm
+100189401	chronic kidney disease
+100189401	QRS complex, QRS duration, electrocardiography, heart rate, pr interval, qt interval
+100189401	ankylosing spondylitis
+100189401	cd4:cd8 lymphocyte ratio
+100189401	type i diabetes mellitus
+100189401	Barrett's esophagus
+100216516	coronary heart disease, stroke
+100270679	androgenetic alopecia
+100286844	anthropometry
+100287616	exfoliation syndrome
+100287932	hemoglobin measurement, mean corpuscular hemoglobin
+100287932	mean corpuscular volume
+100287944	heart rate
+100288077	matrix metalloproteinase measurement
+100289058	corneal topography
+100289058	eye measurement
+100289178	bone density
+100289473	azoospermia
+100289673	alzheimer's disease
+100302133	metabolite measurement
+100302150	alkaline phosphatase measurement
+100302150	mean platelet volume
+100302166	triglyceride measurement
+100303453	neuroimaging measurement, south texas assessment of neurocognition
+100379251	nt-probnp measurement
+100381270	breast carcinoma
+100422940	age at menarche
+100423002	episodic memory
+100505495	prostate carcinoma
+100505549	serum gamma-glutamyl transferase measurement
+100505678	age at menarche
+100505702	serum non-albumin protein measurement
+100505718	dupuytren contracture
+100505832	body mass index, fasting blood glucose measurement
+100505832	fasting blood glucose measurement
+100505933	biliary atresia
+100506023	rheumatoid arthritis
+100506236	waist-hip ratio
+100506393	ossification of the posterior longitudinal ligament of the spine
+100506409	blood metabolite measurement
+100506409	phospholipid measurement
+100506409	metabolite measurement
+100506444	serum VEGFR2 concentration measurement
+100506532	eye measurement
+100506606	mean platelet volume
+100506627	bone density
+100506713	blood metabolite measurement
+100506810	total cholesterol measurement
+100506810	low density lipoprotein cholesterol measurement
+100507053	serum metabolite measurement
+100507098	age-related macular degeneration
+100507098	waist-hip ratio
+100507118	type ii diabetes mellitus
+100507163	calcium measurement
+100507266	age-related hearing impairment
+100507266	congenital heart disease
+100507346	pulmonary function measurement
+100507347	total cholesterol measurement
+100507389	phospholipid measurement
+100507431	schizophrenia
+100507436	body height
+100507436	ankylosing spondylitis
+100507436	hepatocellular carcinoma
+100507506	blood metabolite measurement
+100507679	graves disease
+100526783	type ii diabetes mellitus
+100526835	age at menarche
+100526835	body mass index
+100526835	anthropometry
+100527963	intracerebral hemorrhage
+100527978	phospholipid measurement
+100528007	systolic blood pressure
+100528007	diastolic blood pressure
+100528007	hypertension
+100528007	schizophrenia
+100528007	blood pressure
+100528007	urinary arsenic measurement
+100528016	schizophrenia
+100528022	refractive error
+100528032	Behcet's disease
+100529209	blood metabolite measurement
+100529261	erythrocyte measurement
+100529262	mucocutaneous lymph node syndrome
+100529262	chronic obstructive pulmonary disease
+100529264	chronic obstructive pulmonary disease
+100532732	systemic lupus erythematosus
+100532746	membranous glomerulonephritis
+100532746	phospholipid measurement
+100533107	central nervous system cancer
+100533107	ulcerative colitis
+100533183	high density lipoprotein cholesterol measurement
+100533464	sensory perception of bitter taste
+100533975	mean platelet volume
+100616329	metabolite measurement
+100616384	multiple sclerosis
+100616414	blood metabolite measurement
+100631383	parkinson's disease
+100846978	prostate carcinoma
+100861550	body mass index, fasting blood glucose measurement
+100861550	pancreatic carcinoma
+100862662	homocysteine measurement
+100874048	systemic lupus erythematosus
+100874095	adiponectin measurement
+100874375	venous thromboembolism
+100996405	triglyceride measurement
+100996405	thyroid stimulating hormone measurement, thyroxine measurement
+100996485	colorectal cancer
+100996485	ulcerative colitis
+100996521	melanoma
+100996583	ulcerative colitis
+101180976	chronic hepatitis C infection
+101410538	freckles
+101805488	colorectal cancer
+101805488	prostate carcinoma
+101867536	prostate carcinoma
+101926892	cardiac troponin T measurement
+101926943	Sjogren syndrome
+101927002	type ii diabetes mellitus
+101927066	migraine disorder
+101927119	age-related macular degeneration
+101927134	schizophrenia
+101927156	celiac disease
+101927235	epilepsy
+101927279	schizophrenia
+101927324	ulcerative colitis
+101927324	crohn's disease
+101927335	self reported educational attainment
+101927422	venous thromboembolism
+101927426	thyroid peroxidase antibody measurement
+101927437	vitamin B12 measurement
+101927688	testicular carcinoma
+101927697	blood pressure
+101927705	blood metabolite measurement
+101927729	optic disc size measurement
+101927840	celiac disease
+101927889	adiponectin measurement
+101927891	serum gamma-glutamyl transferase measurement
+101927891	body height
+101927898	body height
+101928118	phospholipid measurement
+101928140	age at menarche
+101928165	prostate carcinoma
+101928231	urate measurement
+101928272	calcium measurement
+101928281	vasoactive peptide measurement
+101928292	breast carcinoma
+101928337	thyroid stimulating hormone measurement, thyroxine measurement
+101928338	blood urea nitrogen measurement, renal system measurement
+101928376	biliary liver cirrhosis
+101928376	celiac disease
+101928423	type ii diabetes mellitus
+101928448	triglyceride measurement
+101928596	qt interval
+101928638	renal system measurement
+101928661	leprosy
+101928694	blood metabolite measurement
+101928694	high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, total cholesterol measurement, triglyceride measurement
+101928694	metabolite measurement
+101928694	high density lipoprotein cholesterol measurement
+101928731	body height
+101928765	pulmonary function measurement
+101928791	multiple sclerosis
+101928822	rheumatoid arthritis
+101928822	immune system disease
+101928822	autoantibody measurement, type i diabetes mellitus
+101928822	crohn's disease
+101928822	type i diabetes mellitus
+101928994	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+101929054	bipolar disorder
+101929072	ankylosing spondylitis
+101929072	hepatocellular carcinoma
+101929081	prostate carcinoma
+101929111	stevens-johnson syndrome, toxic epidermal necrolysis
+101929118	blood metabolite measurement
+101929118	coronary artery calcification
+101929118	metabolite measurement
+101929155	body height
+101929163	crohn's disease
+101929163	vitiligo
+101929163	osteoarthritis of the knee
+101929167	recombination mesurement
+101929220	systemic lupus erythematosus
+101929267	age at menarche
+101929328	obesity
+101929414	calcium measurement
+101929423	bone density
+101929491	prostate carcinoma
+101929558	pulmonary function measurement
+101929615	waist-hip ratio
+101929615	triglyceride measurement
+101929664	iga glomerulonephritis
+101929667	electrocardiography
+101929667	pr interval
+101929667	qt interval
+101929680	MMR-related febrile seizures
+101929680	Mesial temporal lobe epilepsy with hippocampal sclerosis
+101929685	fasting blood glucose measurement
+101929710	body mass index, fasting blood glucose measurement
+101929710	C-peptide measurement, fasting blood glucose measurement, glucose tolerance test
+101929710	insulin measurement
+101929761	rheumatoid arthritis
+101930033	prostate carcinoma
+101930033	colorectal cancer
+101930033	breast carcinoma
+101930098	graves disease
+102060414	age-related macular degeneration
+102465435	inflammatory bowel disease
+102465500	membranous glomerulonephritis
+102465508	alzheimer's disease
+102465537	diffuse large b-cell lymphoma
+102465537	beta-2 microglobulin measurement
+102465537	HIV-1 infection
+102466745	membranous glomerulonephritis
+102723403	age at menopause
+102723469	gastric carcinoma
+102723522	erythrocyte measurement
+102723522	mean corpuscular volume
+102723593	mammographic density measurement, non-dense area measurement
+102723593	breast carcinoma, breast size
+102723706	response to selective serotonin reuptake inhibitor
+102723722	response to selective serotonin reuptake inhibitor
+102723767	colorectal cancer
+102723797	pathological myopia
+102723878	crohn's disease
+102723878	leprosy
+102723878	sarcoidosis
+102723893	body height
+102723902	high density lipoprotein cholesterol measurement
+102723950	response to selective serotonin reuptake inhibitor
+102724063	bone density
+102724068	bipolar disorder, body mass index
+102724072	bone density
+102724137	open-angle glaucoma
+102724137	ankle brachial index
+102724137	glaucoma
+102724137	central nervous system cancer
+102724164	estradiol measurement, sex hormone globulin binding measurement, testosterone measurement
+102724192	amyotrophic lateral sclerosis
+102724265	renal cell carcinoma
+102724266	serum metabolite measurement
+102724297	Alzheimer's disease biomarker measurement, CCL4 measurement, alzheimer's disease, angiotensin-converting enzyme measurement, ccl2 measurement, interleukin-6 measurement, matrix metalloproteinase measurement
+102724307	systolic blood pressure
+102724351	uterine fibroid
+102724457	schizophrenia
+102724461	bone density
+102724493	serum metabolite measurement
+102724536	dense area measurement, mammographic density measurement
+102724536	breast carcinoma
+102724541	waist-hip ratio
+102724556	epilepsy
+102724596	sex hormone globulin binding measurement
+102724596	prostate carcinoma
+102724596	diastolic blood pressure
+102724659	homocysteine measurement
+102724699	adiponectin measurement
+102724748	Behcet's disease
+102724766	blood metabolite measurement
+102724766	high density lipoprotein cholesterol measurement
+102724766	triglyceride measurement
+102724766	total cholesterol measurement
+102724766	age-related macular degeneration
+102724766	erythrocyte measurement
+102724766	coronary artery calcification
+102724766	metabolic syndrome
+102724766	phospholipid measurement
+102724766	lipid measurement
+102724766	aspartate aminotransferase measurement, butyrylcholinesterase measurement, c-reactive protein measurement, ferritin measurement, high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement, serum gamma-glutamyl transferase measurement, triglyceride measurement, uric acid measurement
+102724766	alkaline phosphatase measurement, aspartate aminotransferase measurement, creatine kinase measurement, hematocrit, hemoglobin measurement, high density lipoprotein cholesterol measurement, protein measurement, serum alanine aminotransferase measurement, serum albumin measurement, serum creatinine measurement, serum gamma-glutamyl transferase measurement, uric acid measurement
+102724957	bone density
+102724968	low density lipoprotein cholesterol measurement
+102724985	lipid measurement
+102800310	ovarian carcinoma
