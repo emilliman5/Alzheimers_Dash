@@ -22,17 +22,29 @@ x3$Neither<-x3$Neither - x3$Overlap - x3$DiseaseOnly - x3$PhenotypeOnly
 
 x3.1<-x3[!x3$Neither<0,]
 
-temp<-apply(as.matrix(x3.1[,3:6]), 1, function(x) 
+pvalue<-apply(as.matrix(x3.1[,3:6]), 1, function(x) 
   fisher.test(matrix(unlist(x), ncol=2))$p.value)
+estimate<-apply(as.matrix(x3.1[,3:6]), 1, function(x) 
+  fisher.test(matrix(unlist(x), ncol=2))$estimate)
 
-x3.1[,"pvalue"]<-temp
+
+x3.1[,"pvalue"]<-pvalue
+x3.1[,"oddsratio"]<-estimate
+
 head(x3.1)
 
-table<-table(x3.1[,c("Var1", "Var2", "pvalue")])
+#table<-table(x3.1[,c("Var1", "Var2", "pvalue")])
+#table2<-table(x3.1[,c("Var1", "Var2", "oddsratio")])
 
 reshape<-reshape(x3.1[,c("Var1","Var2","pvalue")], idvar = "Var1", timevar = "Var2", direction = "wide")
-reshape[1:10,1:10]
-View(reshape)
+reshape2<-reshape(x3.1[,c("Var1","Var2","oddsratio")], idvar = "Var1", timevar = "Var2", direction = "wide")
 
-save(reshape,file = "phenotype_by_phenotype_fishers.Rda")
+
+save(reshape,file = "phenotype_by_phenotype_fishers_pvalue.Rda")
+save(reshape,file = "phenotype_by_phenotype_fishers_oddsratio.Rda")
+
 heatmap(reshape)
+
+class(reshape[2,2])
+hist(-log10(as.vector(reshape[,-1])[!is.na(as.vector(reshape[,1]))]), breaks=100)
+heatmap.2(-log10(as.matrix(reshape2), trace="none"))
