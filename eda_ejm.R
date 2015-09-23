@@ -1,5 +1,7 @@
-library(slam)
+setwd("C:/Users/millimanej/Desktop/JHU_DaSH/Alzheimers_Dash/")
 
+library(slam)
+library(gplots)
 load("biogrid2.Rdata")
 
 A<-biogrid2[,c(1,2)] 
@@ -42,4 +44,11 @@ reshape[1:10,1:10]
 class(reshape[1,10])
 rownames(reshape)<-reshape$Var1
 reshape<-reshape[,-1]
-sparsity(as.matrix(reshape))
+heatmap.2(as.matrix(reshape), trace="none", dendrogram = "none", Rowv = F, Colv = F, labRow = "", labCol="")
+
+load("phenotype_by_phenotype_fishers_oddsratio.Rda")
+hist(log2(as.vector(reshape2[,-1])[!is.na(as.vector(reshape[,-1]))]), breaks=100)
+reshape[1:10,1:10]
+class(reshape[1,10])
+rownames(reshape)<-reshape$Var1
+reshape<-reshape[,-1]
