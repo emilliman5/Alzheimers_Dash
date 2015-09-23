@@ -121,8 +121,10 @@ write.graph(net,"edlist.txt", format="edgelist")
 edges<-read.table("edlist.txt")
 colnames(edges)<-c("from","to")
 colnames(nodes)<-"idn"
+nodes<-data.frame("idn"=unique(edges$from))
 nodes$group<-as.factor("phenotype")
-nodes<-data.frame("idn"=unique(c(edges$from, edges$to)))
+nodes$size<-6
 
-forceNetwork(Links=edges, Nodes = nodes, NodeID = "idn", 
-             Group = "group",Source = "from",Target="to")
+forceNetwork(Links=edges, Nodes = nodes, NodeID = "idn",Nodesize = 3, 
+             Group = "group",Source = "from",Target="to", linkWidth = 2)
+dev.off()
