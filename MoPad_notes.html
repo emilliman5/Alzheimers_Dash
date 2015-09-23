@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<title>/11973$1</title>
+</head>
+<body>&nbsp;<br
+/>************ We can post notes and links about our project *******************<br
+/>emilliman4@gmail.com<br
+/><br
+/>Link to presentation:<br
+/><br
+/>pdf: <a href="https://drive.google.com/file/d/0B84zZBsjht1UWGZMNTZhSHZac00/view?usp=sharing">https://drive.google.com/file/d/0B84zZBsjht1UWGZMNTZhSHZac00/view?usp=sharing</a><br
+/>powerpoint: <a href="https://drive.google.com/file/d/0B84zZBsjht1US3lKQWJvdkNHcHc/view?usp=sharing">https://drive.google.com/file/d/0B84zZBsjht1US3lKQWJvdkNHcHc/view?usp=sharing</a><br
+/><br
+/><br
+/><b>WORK IN PROGRESS AND GOALS</b><br
+/><br
+/>3.&nbsp;&nbsp;&nbsp; Assign mouse genes to human orthologs -- HomolGene, orthoDB<br
+/>4.&nbsp;&nbsp;&nbsp; Test gene set overlaps for significance to score mice as a model for a given disease, and/or "map" mouse phenotypes to human diseases<br
+/>5.&nbsp;&nbsp;&nbsp; Repeat step 4 at the protein sub-network level<br
+/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. need to think about how to aggregate protein sub-network info from gene-level data<br
+/>6.&nbsp;&nbsp;&nbsp; Create protein(gene) sub network assignments<br
+/><br
+/><br
+/><b>Table 1</b><br
+/><b>M. Phenotype Data</b>&nbsp; |&nbsp; M. Gene | H. Gene&nbsp;<br
+/><br
+/>Table 2<br
+/>Human Gene | Disease DB&nbsp;&nbsp; |&nbsp; Disease db2<br
+/><br
+/>Data Table:<br
+/>Inner join of T1 and T2 on H. Gene<br
+/><br
+/><b>Edward is getting columns 1-2 (column 1 may be multiple columns)</b><br
+/>joined on mouse gene to:&nbsp;<br
+/><b>Frank Is getting Columns 2-3</b><br
+/>joined on human gene to: human HGNC --&gt; human Entrez --&gt; mouse entrez --&gt; MGI<br
+/>&nbsp;&nbsp;&nbsp; Human entrez --&gt; mouse entrez can be done with NCBI's homologene<br
+/>&nbsp;&nbsp;&nbsp; MGI to Entrez can be done with NCBI's gene2Alias (bioconductor???)<br
+/><b>Emily and Qing are getting columns 3-5</b><br
+/>David: familiarize with biogrid protein-protein interaction (PPIs) from Biogrid and Mint<br
+/><a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=biogrid">https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=biogrid</a><br
+/><a href="http://mint.bio.uniroma2.it/mint/Welcome.do">http://mint.bio.uniroma2.it/mint/Welcome.do</a><br
+/><br
+/>GitHub Repo:<br
+/><a href="https://github.com/emilliman5/Alzheimers_Dash">https://github.com/emilliman5/Alzheimers_Dash</a><br
+/><br
+/><a href="http://www.genomebiology.com/content/pdf/gb-2010-11-10-404.pdf">http://www.genomebiology.com/content/pdf/gb-2010-11-10-404.pdf</a> (Title: Do it yourself Genetic Testing).<br
+/><br
+/>Short tut on Short read alignment<br
+/><a href="https://blog.sbgenomics.com/short-read-alignment-algorithms/">https://blog.sbgenomics.com/short-read-alignment-algorithms/</a><br
+/><br
+/>NHGRI: GWAS catalogue, Later generation: Grasp, ref:<br
+/><br
+/><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072913/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072913/</a><br
+/>download link to the data:&nbsp;<br
+/><a href="https://www.ebi.ac.uk/gwas/docs/downloads">https://www.ebi.ac.uk/gwas/docs/downloads</a><br
+/><br
+/>GRASP DB<br
+/><a href="http://omictools.com/grasp-s5332.html">http://omictools.com/grasp-s5332.html</a><br
+/><br
+/>JAX memory data<br
+/><a href="http://www.informatics.jax.org/mp/annotations/MP:0002801">http://www.informatics.jax.org/mp/annotations/MP:0002801</a><br
+/><br
+/>Genome GWAS<br
+/><a href="https://www.genome.gov/26525384">https://www.genome.gov/26525384</a><br
+/><br
+/>Geneset enrichment analysis<br
+/><a href="https://en.wikipedia.org/wiki/Gene_set_enrichment">https://en.wikipedia.org/wiki/Gene_set_enrichment</a><br
+/><a href="http://www.pnas.org/content/102/43/15545.full">http://www.pnas.org/content/102/43/15545.full</a><br
+/><br
+/>In NCBI-Hackathons <a href="https://github.com/NCBI-Hackathons">https://github.com/NCBI-Hackathons</a><br
+/><br
+/>DC genomics Meetup Repos<br
+/><a href="https://github.com/DCGenomics?tab=repositories">https://github.com/DCGenomics?tab=repositories</a><br
+/><br
+/>Also, shiny app:<br
+/><a href="http://shiny.as.uky.edu:3838/mcfsa/">http://shiny.as.uky.edu:3838/mcfsa/</a><br
+/><br
+/>Phenotype expression browser from Jax<br
+/><a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0002063">http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0002063</a><br
+/><br
+/>Other data source: Alzheimer's challenge data, which is already in accessible data format.<br
+/><a href="https://www.synapse.org/#">https://www.synapse.org/#</a>!Synapse:syn2290704/wiki/64710; clinical data available at: <a href="https://github.com/juanjold/cis519/find/master">https://github.com/juanjold/cis519/find/master</a>. Still waiting to get genetics data access from <a href="http://utilities.loni.usc.edu/map/downloads.jsp">http://utilities.loni.usc.edu/map/downloads.jsp</a>.<br
+/><br
+/>And other data challenges: <a href="http://dreamchallenges.org/">http://dreamchallenges.org/</a><br
+/><br
+/>OrthoDB: <a href="http://orthodb.org/">http://orthodb.org/</a><br
+/>NCBI Homologene: <a href="http://www.ncbi.nlm.nih.gov/homologene">http://www.ncbi.nlm.nih.gov/homologene</a><br
+/><br
+/>Get orthologous genes between mouse and human:<br
+/><a href="http://www.ensembl.info/blog/2009/01/21/how-to-get-all-the-orthologous-genes-between-two-species/">http://www.ensembl.info/blog/2009/01/21/how-to-get-all-the-orthologous-genes-between-two-species/</a><br
+/><br
+/>Using Bioconductor to get human-mouse orthologous genes:<br
+/><a href="https://support.bioconductor.org/p/52812/">https://support.bioconductor.org/p/52812/</a><br
+/><br
+/><br
+/>Code for mapping MGI Alzheimer disease allele gene to human orthologous gene:<br
+/><br
+/>library(readr)<br
+/><br
+/># read in the MGI Alzheimer disease allele data<br
+/>mgi_allele &lt;- read_csv("MGI_alzheimer.csv")<br
+/><br
+/># change column name to replace spaces in name<br
+/>names(mgi_allele) &lt;- make.names(names(mgi_allele), unique=TRUE)<br
+/><br
+/># get only targeted mutation<br
+/>mgi_target &lt;- subset(mgi_allele, Allele.Type == "Targeted")<br
+/># get allele information<br
+/>mgi_target[,2]<br
+/><br
+/># get unique gene name from allele name<br
+/>mgi_gene &lt;- unique(sapply(strsplit(mgi_target[,2], "&lt;"), "[", 1))<br
+/><br
+/><br
+/><br
+/>library(biomaRt)<br
+/><br
+/># set Biomart human gene set<br
+/>human = useMart("ensembl", dataset = "hsapiens_gene_ensembl")<br
+/># set Biomart mouse gene set<br
+/>mouse = useMart("ensembl", dataset = "mmusculus_gene_ensembl")<br
+/><br
+/># map mouse gene symbol to human gene symbol<br
+/>hs_gene &lt;- getLDS(attributes = c("mgi_symbol"), filters = "mgi_symbol", values = mgi_gene ,mart = mouse, attributesL = c("hgnc_symbol","chromosome_name", "start_position"), martL = human, uniqueRows=T)<br
+/><br
+/>A&lt;-biogrid2[,c(1,2)] colnames(A)&lt;-c("Gene1","Gene2")&nbsp; T&lt;-table(A) Td&lt;-dist(T)<br
+/><br
+/><br
+/>JOINing data in R using data.table<br
+/><a href="https://rstudio-pubs-static.s3.amazonaws.com/52230_5ae0d25125b544caab32f75f0360e775.html">https://rstudio-pubs-static.s3.amazonaws.com/52230_5ae0d25125b544caab32f75f0360e775.html</a><br
+/><br
+/>reshape[is.na(reshape)]&lt;-1<br
+/>reshape.transform&lt;--log10(reshape)<br
+/>reshape.transform[reshape.transform==Inf]&lt;-300<br
+/><br
+/><br
+/>Heatmap:<br
+/><a href="http://blog.rstudio.org/2015/06/24/d3heatmap/">http://blog.rstudio.org/2015/06/24/d3heatmap/</a><br
+/><br
+/>Example:<br
+/><br
+/>library(d3heatmap)<br
+/>url &lt;- "<a href="http://datasets.flowingdata.com/ppg2008.csv">http://datasets.flowingdata.com/ppg2008.csv</a>"<br
+/>nba_players &lt;- read.csv(url, row.names = 1)<br
+/>d3heatmap(nba_players, scale = "column")<br
+/><br
+/><br
+/><br
+/><br
+/></body>
+</html>
